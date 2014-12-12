@@ -3,29 +3,28 @@ title: Discuss
 published: true
 ---
 
-# Module Template
-- Each “Tent” is a Category on Discourse
-- Each module is a thread: 
-- Synth Fest Week 1, Synth Fest Week 2
-
-# Kickstart the ‘Fest
-## Inventing in Your Life
-- Finding a problem space that is close to your life "Take your favorite song. Which instruments are in there? Let’s make one of those."
-- Inspiration: Maker Story / Video / Project
+# Synth Module Week 2: Dance Party
 
 ## ‘Fest Up: Your Weekly Invention
+Make something that plays a song.
+
 - Define a problem space that is provocative or controversial
 - Design constraint
 - “Write a song using one line of code"
 - “Make a Car Using only 2 bits"
 
 ## Inspiration, Examples and Support
-2-3 example projects curated from
-- littleBits Project page
-- meet the makers
-- youtube channel tutorials
-- tips&tricks
-- Maker hub
+http://littlebits.cc/projects/ok-go-another-set-of-objects-synth-4721317c-baf8-4a4c-9513-4294d74585ba
+
+http://www.andydrudy.com/lessons/Crash_Course_in_Music_Theory_for_Guitarists.pdf
+
+http://www.songwriting-unlimited.com/images/intervals-emotions.jpg
+
+
+http://music.tutsplus.com/tutorials/the-contemporary-musicians-guide-to-counterpoint--audio-4630
+
+http://music.tutsplus.com/tutorials/music-theory-intervals-and-how-to-derive-them--audio-4559
+
 
 ## Your Fellow BitStars
  - Example folks in the community who have made the project
