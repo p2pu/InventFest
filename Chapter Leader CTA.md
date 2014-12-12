@@ -15,15 +15,15 @@ What will that look like? How will we bring together our awesome forces? Read on
 
 ## Names, Dates, Times
 
-On January 6th you'll receive an email that from us hostesses at InventFest beta. During each week of the beta test, we'll work on activities and then share during our weekly "FestUps" over UnHangout. 
+On January 6th you'll receive an email that from us hostesses at InventFest beta. During each week of the beta test, we'll work on activities and then share during our weekly "FestUps" over [UnHangout](https://unhangout.media.mit.edu/h/littleBits). 
 
 Please put these dates and times in your calendar now. We will send a follow-up dinner-party-invitation (though it will proabably look like a calendar invite!)
 
-7:00 EST Tuesday January 6 2015: Welcome and How this Works
-7:00 EST Tuesday January 13 2015: How to Design a Learning Activity
-7:00 EST Tuesday January 20 2015: Building Your Community and Finding Your Crew
-7:00 EST Tuesday January 27 2015: How to Host an Event
-7:00 EST Tuesday February 3 2015: Exhibiting Work, Empowering Peers 
+- 7:00 EST Tuesday January 6 2015: Welcome and How this Works
+- 7:00 EST Tuesday January 13 2015: How to Design a Learning Activity
+- 7:00 EST Tuesday January 20 2015: Building Your Community and Finding Your Crew
+- 7:00 EST Tuesday January 27 2015: How to Host an Event
+- 7:00 EST Tuesday February 3 2015: Exhibiting Work, Empowering Peers 
 
 We'll start each FestUp with an activity to help you craft awesome experiences for your local audience, share resources and build buzz around your events. It's going to be totally stellar.  
 
