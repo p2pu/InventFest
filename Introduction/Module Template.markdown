@@ -14,7 +14,7 @@
 - “Write a song using one line of code"
 - “Make a Car Using only 2 bits"
 
-# Inspiration, Examples and Support
+## Inspiration, Examples and Support
 2-3 example projects curated from
 - littleBits Project page
 - meet the makers
@@ -22,25 +22,25 @@
 - tips&tricks
 - Maker hub
 
-# Your Fellow BitStars
+## Your Fellow BitStars
  - Example folks in the community who have made the project
 
-# Share Your Invent 
+## Share Your Invent 
 - Prompt to post project to littleBits Project Page
 - Step out your design process: use the project page as a template
 - What did you do 1st, 2nd and 3rd
 - Which resources did you consult?
 
-# Discuss the Fest
+## Discuss the Fest
 - 2-3 articles on the abstract ideas around the activity contributed by the Stellar Bitsters (60)
 - “Privacy and Internet of Things"
 - “How Do We Choose Which Devices for Kids to Use"
 
-# Refest: Design an Activity for Someone Else
+## Refest: Design an Activity for Someone Else
 - How would you “hack” this activity to meet your needs?
 - If you could revise this activity for a group, what would that look like?
 
-# Weekly Fête (for all tents)
+## Weekly Fête (for all tents)
 - 1/week: Expert Unhangout
 - Q & A with an expert in the field
 - 1/week: InventFest Unhangout
