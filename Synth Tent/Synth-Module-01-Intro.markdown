@@ -1,7 +1,5 @@
 
-# Synth Module Week 1: the Sound of Your Youth
-
-# Your Weekly Invention: BYO Instrument
+# Synth Module Week 1: BYO Instrument
 If you are here, you likely have tinkered with the [Synth Kit](http://littlebits.cc/kits/synth-kit) before. We'll be using bits from the Synth Kit throughout this tent, so you may want to snag those online or [swing by Radioshack](http://www.radioshack.com/littlebits?utm_source=google&utm_medium=ppc&utm_campaign=RSO_SRC_EN_NCA_TM_E_Manufacturer&CID=ip:SEM:RSO:Google:radio-shack_little_bits&gclid=COuhiJCTwcICFajm7AodCVYApQ&gclsrc=aw.ds). You probably also will want to bring along an Arduino prototyping board to use as your programming device for more control. 
 
 To get us started, we’ll be playing with a song you already love. What's a tune you played over and over as a teenager?? Tom Petty, the Eagles or Pat Benetar are *not* embarrassing. Do a Google search for the track online. Choose particular sound in the song--we’re going to make an instrument for it. 
