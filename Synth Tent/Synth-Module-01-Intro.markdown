@@ -32,6 +32,7 @@ To get us started, we’ll be playing with a song you already love. What's a tun
 ### [Hitoshi Takagaki, Kalimba](http://littlebits.cc/community-spotlight-hitoshi-takagaki)
 <iframe width="420" height="315" src="//www.youtube.com/embed/NyMAQyYttSM" frameborder="0" allowfullscreen></iframe>
 
+
 ## Share Your Invent 
 Upload your project to littleBits [Maker Hub](http://littlebits.cc/projects) and post the link below. Make sure in your upload, you model a ["reflective design process"](http://en.wikipedia.org/wiki/Reflective_practice) and include:
 - The specific bits you used in the project
