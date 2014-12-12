@@ -12,13 +12,16 @@ To get us started, we’ll be playing with a song you already love. What's a tun
 3. Take a video of you playing the instrument that lasts more than 30 seconds.
 
 ## Inspiration, Examples and Support
-1. Make Your Own Keytar: 
 
+1. Directions from littleBits on how to [Make Your Own Keytar](http://littlebits.cc/projects/keytar): 
+![](/Images/Keytar.png)
 
-"littleBits Korg Synth Kit DnB Synthesizer with Arduino at Heart Sequencer Clock" by OculoRapido 
+2. "littleBits Korg Synth Kit DnB Synthesizer with Arduino at Heart Sequencer Clock" by OculoRapido 
 <iframe width="420" height="315" src="//www.youtube.com/embed/BqW_pQMkLws" frameborder="0" allowfullscreen></iframe>
-2. "LittleBits Broomstick Guitar" by Peter Churchyard <iframe width="420" height="315" src="//www.youtube.com/embed/rvLWifnFIUs" frameborder="0" allowfullscreen></iframe>
-3. "Make a Musical Instrument Using Scratch" <iframe width="420" height="315" src="//www.youtube.com/embed/OZhn1vG_toM" frameborder="0" allowfullscreen></iframe>
+
+3. "LittleBits Broomstick Guitar" by Peter Churchyard <iframe width="420" height="315" src="//www.youtube.com/embed/rvLWifnFIUs" frameborder="0" allowfullscreen></iframe>
+
+4. "Make a Musical Instrument Using Scratch" <iframe width="420" height="315" src="//www.youtube.com/embed/OZhn1vG_toM" frameborder="0" allowfullscreen></iframe>
 
 ## Your Fellow BitStars
  - Example folks in the community who have made the project
