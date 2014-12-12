@@ -1,22 +1,52 @@
 ---
-title: "Discuss"
+title: Discuss
+published: true
 ---
-# Discuss
 
-## What will community look like for your course? Discuss on discourse
+# Module Template
+- Each “Tent” is a Category on Discourse
+- Each module is a thread: 
+- Synth Fest Week 1, Synth Fest Week 2
 
-Now that you've done a little community building and saw how others to it, reflect on what community will ideally look like in your course.
+# Kickstart the ‘Fest
+## Inventing in Your Life
+- Finding a problem space that is close to your life "Take your favorite song. Which instruments are in there? Let’s make one of those."
+- Inspiration: Maker Story / Video / Project
 
-- How will people join your community? 
-- What type of community will you build for your course? 
-- Will it be a community of interest, practice or inquiry? 
-- Will you add a personality/theme to your community? 
-- Will the community keep going after the course is done?
+## ‘Fest Up: Your Weekly Invention
+- Define a problem space that is provocative or controversial
+- Design constraint
+- “Write a song using one line of code"
+- “Make a Car Using only 2 bits"
 
-Share your thoughts on the [discourse topic](http://community.p2pu.org/) you created earlier.
+## Inspiration, Examples and Support
+2-3 example projects curated from
+- littleBits Project page
+- meet the makers
+- youtube channel tutorials
+- tips&tricks
+- Maker hub
 
-## Hangout
+## Your Fellow BitStars
+ - Example folks in the community who have made the project
 
-We will also have a [hangout](https://unhangout.media.mit.edu/h/course-in-a-box) to share our answers to the questions about and talk how we can apply it to our courses. Have a look at the calender on the front page to see when the hangout about community is happening.
+## Share Your Invent 
+- Prompt to post project to littleBits Project Page
+- Step out your design process: use the project page as a template
+- What did you do 1st, 2nd and 3rd
+- Which resources did you consult?
 
+## Discuss the Fest
+- 2-3 articles on the abstract ideas around the activity contributed by the Stellar Bitsters (60)
+- “Privacy and Internet of Things"
+- “How Do We Choose Which Devices for Kids to Use"
 
+## Refest: Design an Activity for Someone Else
+- How would you “hack” this activity to meet your needs?
+- If you could revise this activity for a group, what would that look like?
+
+## Weekly Fête (for all tents)
+- 1/week: Expert Unhangout
+- Q & A with an expert in the field
+- 1/week: InventFest Unhangout
+- Project directly relates to learning goals
