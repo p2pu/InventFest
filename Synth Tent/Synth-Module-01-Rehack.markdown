@@ -1,8 +1,3 @@
----
-title: "Community Activity: Make an Orchestra"
-excerpt: "Find out why community is important in learning something new, what makes robust communities tick, and start co-designing your course."
-published: true
----
 
 # Synth Module: Community Activity: Make an Orchestra
 
