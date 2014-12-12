@@ -3,34 +3,25 @@ title: Projects
 published: true
 ---
 
-## Find and Invite Folks to be Your 'First 10'
+# Synth Module 1: How Playing an Instrument Benefits Your Brain
 
-Building a course alone is a daunting task. We guarantee that co-designing with a crew makes for a [more successful online community](http://jolt.merlot.org/vol9no2/ahn_0613.htm). To wit, we invite you to:
+<iframe width="366" height="223" src="//www.youtube.com/embed/R0JKCYZ8hng" frameborder="0" allowfullscreen></iframe>
 
-- Start a new topic on discourse under the [new courses](http://community.p2pu.org/c/new-courses) category to tell people about the course you are building.
-- Poke through the forums to find folks who might be interested in the topic or could give you some tasty feedback. Mention them in your post by attaching @ to their username. (For example, Dirk is @dirk).
-- If you have pals with interest or expertise in this area, send them the link to Discourse and ask for their feedback and ideas.
+The connections between brain research and music have been ongoing for the past two decades, but there are actually a lot of different areas within the research, and it is easy to confuse them. 
 
-This is a good opportunity to grow your network and to get other people to work with.
+Firstly there is the area of music and the brain, which is about how we process music in our brains. Daniel Levitin wrote a great book called This is Your Brain on Music (http://daniellevitin.com/publicpage/books/this-is-your-brain-on-music/) which is all about how we process music.
 
-## Observe and Participate in Other Communities
+Then there is the area of music therapy and the brain, which is about how we can use music to assist people who have had brain injuries, physical trauma or have been born with a disability, to improve their physical and cognitive function. It is also being used extensively with people who are suffering from dementia and Alzheimer’s disease. Oliver Sacks wrote a great book called Musicophillia (http://musicophilia.com) and Norman Doige has a book on brain plasticity called The Brain that Changes itself (http://www.normandoidge.com/normandoidge.com/MAIN.html) that talks about the power of music therapy.
 
-The best way to build a quality community is to participate in other communities. Take a look at how other courses do it: 
+Then there is the area of music education and the brain, which is about how music learning can impact on general brain development in children and adults. In the research it is called music training and is generally understood to be the formal and sequential learning of music, through playing music as well as appreciating and listening to it. There are a number of research institutes that are working in this part of the field, the Dana Foundation (http://www.dana.org), the BRAMS Institute (http://www.brams.org/en/) and the Music, Mind and Wellbeing Institute (http://cmmw.unimelb.edu.au). 
 
-- [Why Open](https://p2pu.org/en/courses/2314/why-open/)
-- [Writing for Change](http://writing4change.p2pu.org) 
-- [Play With Your Music](http://playwithyourmusic.org) are good examples to look at.
+Keeping up with the research is tricky if you are not a neuroscientists. Here is a resource that can keep you up to date with the research, and here is a list of the references that were used to support the writing of the script for this lesson.
 
-Observe how..
+Research into the nature of how the corpus callosum impacts on the brains functions, and how learning a musical instrument impacts on this, is ongoing. Recently, neuroscientists have dug deeper and found that changes in the corpus callosum may be dependent on the type of musical training a musician does and could be localized to the anterior corpus callosum. This area has shown an increase in bi-manual coordination (where the brain coordinates simultaneous multiple movements like using a knife and fork). Here is some of the latest research. 
 
-- folks welcome new people to the community
-- how community members interact with each other
-- how they celebrate success
-- how they give feedback to each other
+Sometimes it is hard to explain all of this research to someone else so here is a short video you can share with parents, teachers and students about how music education can enhance brain development.
 
-Post your observations to Discourse under [Course in a Box: Community Safari](http://community.p2pu.org/t/course-in-a-box-community-safari/1153).
+Learning to sing or play a musical instrument can help disadvantaged children improve their reading skills, US research suggests.
 
-Images of how to get there:
+From Ted Ed: http://ed.ted.com/lessons/how-playing-an-instrument-benefits-your-brain-anita-collins
 
-![Discourse1.png]({{site.baseurl}}/img/Discourse1.png)
-![Discourse2.png]({{site.baseurl}}/img/Discourse2.png)
