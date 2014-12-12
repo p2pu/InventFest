@@ -21,13 +21,11 @@ To get us started, we’ll be playing with a song you already love. What's a tun
  - Example folks in the community who have made the project
 
 ## Share Your Invent 
-Post project to littleBits Project Page.
-- What did you do 1st, 2nd and 3rd
-- Which resources did you consult?
+Upload your project to littleBits [Maker Hub](http://littlebits.cc/projects) and post the link below. Make sure in your upload, you model a ["reflective design process"](http://en.wikipedia.org/wiki/Reflective_practice) and include:
+- The specific bits you used in the project
+- Reflect on what did you do 1st, 2nd and 3rd
+- List the resources you consulted to help others in the future
 
-## Refest: Design an Activity for Someone Else
-- How would you “hack” this activity to meet your needs?
-- If you could revise this activity for a group, what would that look like?
 
 
 
