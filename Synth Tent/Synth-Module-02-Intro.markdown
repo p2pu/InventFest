@@ -5,8 +5,7 @@ published: true
 
 # Synth Module Week 2: Dance Party
 
-## ‘Fest Up: Your Weekly Invention
-Make something that plays a song.
+## Your Weekly Invention: Make something that plays a song.
 
 - Define a problem space that is provocative or controversial
 - Design constraint
@@ -29,7 +28,7 @@ http://music.tutsplus.com/tutorials/music-theory-intervals-and-how-to-derive-the
 ## Your Fellow BitStars
  - Example folks in the community who have made the project
 
-## Share Your Invent 
+## Share Your Invention
 - Prompt to post project to littleBits Project Page
 - Step out your design process: use the project page as a template
 - What did you do 1st, 2nd and 3rd
