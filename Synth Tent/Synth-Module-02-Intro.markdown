@@ -1,5 +1,5 @@
 ---
-title: Discuss
+title: Intro
 published: true
 ---
 
@@ -63,5 +63,3 @@ Upload your project to littleBits [Maker Hub](http://littlebits.cc/projects) and
 - Discuss Module 2
 - Re/hack Module 2
 - Meetup Module 2
-
-
