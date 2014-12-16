@@ -16,18 +16,19 @@ For this module, you're going to need bits from the [Synth Kit](http://littlebit
 3. Use a bit you haven't paid much attention to before. For this activity, [filters](http://littlebits.cc/bits/filter) and the [mix](http://littlebits.cc/bits/mix) bits will be useful. Be sure to include "how you got to know your bit" when you upload your project. 
 
 ## Inspiration, Examples and Support
-1. Directions from littleBits and OK Go on how to use Synth + Arduino to create your own nifty song-maker. Arduino code and circuit sketches included to help you feel safe, comfy and creative.
+### Directions from littleBits and OK Go on how to use Synth + Arduino to create your own nifty song-maker. 
+Arduino code and circuit sketches included to help you feel safe, comfy and creative.
 [littleBits + OK Go "Another Set of Objects](http://littlebits.cc/projects/ok-go-another-set-of-objects-synth)
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/pobPgTv8dy4" frameborder="0" allowfullscreen></iframe>
 
-2. If you need a little help understanding the script + basics of music theory, check out these stellar resources:
+### If you need a little help understanding the script + basics of music theory, check out these stellar resources:
 
 - Andy Drudy, ["Crash Course in Music Theory of Guitarists"](http://www.andydrudy.com/lessons/Crash_Course_in_Music_Theory_for_Guitarists.pdf)
 - Ryan Leach, ["The Contemporary Musician’s Guide to Counterpoint"](http://music.tutsplus.com/tutorials/the-contemporary-musicians-guide-to-counterpoint--audio-4630) and ["Music Theory: Intervals, and How to Derive Them"](http://music.tutsplus.com/tutorials/music-theory-intervals-and-how-to-derive-them--audio-4559)
 - P2PU and NYU, ["Play With Your Music: a Playful Introduction to Audio Engineering"](http://www.playwithyourmusic.org/)
 
-3. If you'd like to brush up on the basics of Arduino + littleBits, here are some videos to help you from our community:
+### If you'd like to brush up on the basics of Arduino + littleBits, here are some videos to help you from our community:
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/FXQ9d3qJt3Q" frameborder="0" allowfullscreen></iframe>
 
