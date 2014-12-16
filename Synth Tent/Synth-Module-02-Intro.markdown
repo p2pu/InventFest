@@ -28,7 +28,9 @@ Arduino code and circuit sketches included to help you feel safe, comfy and crea
 - Ryan Leach, ["The Contemporary Musician’s Guide to Counterpoint"](http://music.tutsplus.com/tutorials/the-contemporary-musicians-guide-to-counterpoint--audio-4630) and ["Music Theory: Intervals, and How to Derive Them"](http://music.tutsplus.com/tutorials/music-theory-intervals-and-how-to-derive-them--audio-4559)
 - P2PU and NYU, ["Play With Your Music: a Playful Introduction to Audio Engineering"](http://www.playwithyourmusic.org/)
 
-### If you'd like to brush up on the basics of Arduino + littleBits, here are some videos to help you from our community:
+### If you'd like to brush up on the basics of Arduino + littleBits, here are some helpful "tips and tricks"
+
+[Tips and Tricks: Arduino Module](http://littlebits.cc/tips-tricks-arduino-module)
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/FXQ9d3qJt3Q" frameborder="0" allowfullscreen></iframe>
 
@@ -37,7 +39,7 @@ Arduino code and circuit sketches included to help you feel safe, comfy and crea
 <iframe width="560" height="315" src="//www.youtube.com/embed/o97j4Lim8H8" frameborder="0" allowfullscreen></iframe>
 
 ## Your Fellow BitStars
-### [JackANDJude, Ice Cream Jukebox)[http://littlebits.cc/projects/ice-cream-jukebox]
+### [JackANDJude, Ice Cream Jukebox](http://littlebits.cc/projects/ice-cream-jukebox)
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/jC6xz3a_eyc" frameborder="0" allowfullscreen></iframe>
 
