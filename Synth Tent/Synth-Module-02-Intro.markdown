@@ -32,14 +32,20 @@ Arduino code and circuit sketches included to help you feel safe, comfy and crea
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/FXQ9d3qJt3Q" frameborder="0" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="//www.youtube.com/embed/AzFYCDB2tjE" frameborder="0" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="//www.youtube.com/embed/o97j4Lim8H8" frameborder="0" allowfullscreen></iframe>
 
 ## Your Fellow BitStars
- - Example folks in the community who have made the project
+### [JackANDJude, Ice Cream Jukebox)[http://littlebits.cc/projects/ice-cream-jukebox]
 
-## Share Your Invention
-- Prompt to post project to littleBits Project Page
-- Step out your design process: use the project page as a template
-- What did you do 1st, 2nd and 3rd
-- Which resources did you consult?
+<iframe width="560" height="315" src="//www.youtube.com/embed/jC6xz3a_eyc" frameborder="0" allowfullscreen></iframe>
+
+
+
+## Share Your Invent 
+Upload your project to littleBits [Maker Hub](http://littlebits.cc/projects) and post the link below. Make sure in your upload, you mention
+- which bit you explored in detail in this Invent
+- where you might take this project next
+- a video of your project working (and booming)
 
