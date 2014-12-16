@@ -43,11 +43,25 @@ Arduino code and circuit sketches included to help you feel safe, comfy and crea
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/jC6xz3a_eyc" frameborder="0" allowfullscreen></iframe>
 
+### [Makedojo, Cardboard Accordion](http://littlebits.cc/projects/cardboard-accordion)
 
+<iframe width="560" height="315" src="//www.youtube.com/embed/R00z7T3Q7J4" frameborder="0" allowfullscreen></iframe>
+
+>I made an Accordion from everyday stuff and littlebits.
+
+>It looks like a traditional style Accordion,but it's a synthesizer.
+
+>I can play a keyboard with left hand and I can make my own sound with right hand.
 
 ## Share Your Invent 
 Upload your project to littleBits [Maker Hub](http://littlebits.cc/projects) and post the link below. Make sure in your upload, you mention
 - which bit you explored in detail in this Invent
 - where you might take this project next
 - a video of your project working (and booming)
+
+## Next Steps:
+- Discuss Module 2
+- Re/hack Module 2
+- Meetup Module 2
+
 
