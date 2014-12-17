@@ -3,25 +3,19 @@ title: Projects
 published: true
 ---
 
-# Synth Module 1: How Playing an Instrument Benefits Your Brain
+# Synth Module 2: How Does "Hospitality" Play into Community + Music Education?
 
-<iframe width="366" height="223" src="//www.youtube.com/embed/R0JKCYZ8hng" frameborder="0" allowfullscreen></iframe>
+From [Lee Higgins'](http://leehigginscm.org/) blog:
 
-The connections between brain research and music have been ongoing for the past two decades, but there are actually a lot of different areas within the research, and it is easy to confuse them. 
+>Community music is an active intervention between a music leader or facilitator and participants. Music educators who work in this way intentionally create spaces for inclusive and participatory musical doing. As a perspective it resonates with a commitment to musical expression as a crucible for social transformation, emancipation, empowerment, and cultural capital. As an approach that places emphasis on conversation, negotiation, collaboration, and cultural democracy, community music practices gives “voice” to those who take part. It is an interventionist approach that involves a distinctive skill set such as those commonly used in non-formal education. As such community music, as an expression of non-formal music education, can act as a bridge between formal music education and informal music learning.
 
-Firstly there is the area of music and the brain, which is about how we process music in our brains. Daniel Levitin wrote a great book called This is Your Brain on Music (http://daniellevitin.com/publicpage/books/this-is-your-brain-on-music/) which is all about how we process music.
+- People: Music is one of the distinctive aspects of being human. Placing those I work alongside as co-authors and collaborators my work encourages journeying together towards transformative musical experiences.
 
-Then there is the area of music therapy and the brain, which is about how we can use music to assist people who have had brain injuries, physical trauma or have been born with a disability, to improve their physical and cognitive function. It is also being used extensively with people who are suffering from dementia and Alzheimer’s disease. Oliver Sacks wrote a great book called Musicophillia (http://musicophilia.com) and Norman Doige has a book on brain plasticity called The Brain that Changes itself (http://www.normandoidge.com/normandoidge.com/MAIN.html) that talks about the power of music therapy.
+- Places: Where community music and non-formal education happens is vitally important. The context is paramount and becomes a pivot for music making, critical inquiry, and conversation.
 
-Then there is the area of music education and the brain, which is about how music learning can impact on general brain development in children and adults. In the research it is called music training and is generally understood to be the formal and sequential learning of music, through playing music as well as appreciating and listening to it. There are a number of research institutes that are working in this part of the field, the Dana Foundation (http://www.dana.org), the BRAMS Institute (http://www.brams.org/en/) and the Music, Mind and Wellbeing Institute (http://cmmw.unimelb.edu.au). 
+- Participation: Creating opportunities for active music participation forms the heart of my work. This means finding ways to increase accessible pathways that lead toward meaningful musical engagement.
 
-Keeping up with the research is tricky if you are not a neuroscientists. Here is a resource that can keep you up to date with the research, and here is a list of the references that were used to support the writing of the script for this lesson.
+- Inclusion: My work emphases the importance of making connections among people, across issues, and over time. By encouraging expansive and ongoing frameworks for interaction my work seeks to create engaged populations and communities of practice.
 
-Research into the nature of how the corpus callosum impacts on the brains functions, and how learning a musical instrument impacts on this, is ongoing. Recently, neuroscientists have dug deeper and found that changes in the corpus callosum may be dependent on the type of musical training a musician does and could be localized to the anterior corpus callosum. This area has shown an increase in bi-manual coordination (where the brain coordinates simultaneous multiple movements like using a knife and fork). Here is some of the latest research. 
-
-Sometimes it is hard to explain all of this research to someone else so here is a short video you can share with parents, teachers and students about how music education can enhance brain development.
-
-Learning to sing or play a musical instrument can help disadvantaged children improve their reading skills, US research suggests.
-
-From Ted Ed: http://ed.ted.com/lessons/how-playing-an-instrument-benefits-your-brain-anita-collins
+- Diversity: Integral to my work is the celebration of difference that can only take place in a safe, positive, and nurturing environment.
 
