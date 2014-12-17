@@ -36,7 +36,7 @@ And for handy reference:
 
 ![](/Images/intervals-emotions.jpg)
 
-### If you'd like to brush up on the basics of Arduino + littleBits, here are some helpful "tips and tricks"
+### If you'd like to brush up on the basics of Arduino + littleBits, here are some helpful "tips and tricks" from the littleBits team:
 
 [Tips and Tricks: Arduino Module](http://littlebits.cc/tips-tricks-arduino-module)
 
