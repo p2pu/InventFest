@@ -22,11 +22,19 @@ Arduino code and circuit sketches included to help you feel safe, comfy and crea
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/pobPgTv8dy4" frameborder="0" allowfullscreen></iframe>
 
+And a sketch of the circuit:
+
+![](/Images/large_OK_GO_Synth_Bits_annotated.png)
+
 ### If you need a little help understanding the script + basics of music theory, check out these stellar resources:
 
 - Andy Drudy, ["Crash Course in Music Theory of Guitarists"](http://www.andydrudy.com/lessons/Crash_Course_in_Music_Theory_for_Guitarists.pdf)
 - Ryan Leach, ["The Contemporary Musician’s Guide to Counterpoint"](http://music.tutsplus.com/tutorials/the-contemporary-musicians-guide-to-counterpoint--audio-4630) and ["Music Theory: Intervals, and How to Derive Them"](http://music.tutsplus.com/tutorials/music-theory-intervals-and-how-to-derive-them--audio-4559)
 - P2PU and NYU, ["Play With Your Music: a Playful Introduction to Audio Engineering"](http://www.playwithyourmusic.org/)
+
+And for handy reference:
+
+![](/Images/intervals-emotions.jpg)
 
 ### If you'd like to brush up on the basics of Arduino + littleBits, here are some helpful "tips and tricks"
 
@@ -42,6 +50,13 @@ Arduino code and circuit sketches included to help you feel safe, comfy and crea
 ### [JackANDJude, Ice Cream Jukebox](http://littlebits.cc/projects/ice-cream-jukebox)
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/jC6xz3a_eyc" frameborder="0" allowfullscreen></iframe>
+
+>Play four ice cream themed songs out of an ice cream carton.  You can make it with stuff from the recycling bin!  
+
+- IT'S A SMALL WORLD
+- MISTER SOFTEE
+- YOU ARE MY SUNSHINE
+- THE ENTERTAINER
 
 ### [Makedojo, Cardboard Accordion](http://littlebits.cc/projects/cardboard-accordion)
 
