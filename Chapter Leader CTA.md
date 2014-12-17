@@ -19,22 +19,23 @@ InventFest is a 5 week-long program to help you **bootstrap and maintain your lo
 
 ### A Weekly Invention Prompt
 
-- Design Contraints
+- We'll pass along a few design contraints
 - Example projects + support documentation
 - Experts in the community that you can reach out and contact
 
-### Meetup via Unhangout
+### "Festup" via Unhangout
 
 - Design Critique / Questions
 - How to Lead littleBits Groups
 
-### Rehack
+### Rehack: Make Your Own Community Activity
 
 - Take your Weekly Invent and design a learning activity for a group
 - Share your story from your face-to-face gathering
 
 ### Discuss + Debate
-- Debate
+
+- Engage each other in issues surrounding technology and education
 - Share a resource
 
 ## Names, Dates, Times
