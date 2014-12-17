@@ -11,11 +11,31 @@ The goal of the program is to create opportunities to empower everyone, regardle
 
 We are kickstarting #InventAnything with a grand online making festival called InventFest. 
 
-Have you ever wondered what's the best way to teach circuits? Or design learning activities for your events? How do you build a local following or community? Or maybe you are stumpted and just want to meet other people who run littleBits groups around the world?
-
 InventFest will "officially" open for signup on *February 15* but we're reaching out early because we want to codesign our Festival with you. Together we will build, test and reflect upon activites + tools to grow community around littleBits. 
 
-What will that look like? How will we bring together our awesome forces? Read on!
+## What is InventFest?
+
+InventFest is a 5 week-long program to help you **bootstrap and maintain your local littleBits community.** Each week you can expect:
+
+### A Weekly Invention Prompt
+
+- Design Contraints
+- Example projects + support documentation
+- Experts in the community that you can reach out and contact
+
+### Meetup via Unhangout
+
+- Design Critique / Questions
+- How to Lead littleBits Groups
+
+### Rehack
+
+- Take your Weekly Invent and design a learning activity for a group
+- Share your story from your face-to-face gathering
+
+### Discuss + Debate
+- Debate
+- Share a resource
 
 ## Names, Dates, Times
 
