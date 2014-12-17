@@ -19,7 +19,7 @@ To get us started, we’ll be playing with a song you already love. What's a tun
 
 3. "LittleBits Broomstick Guitar" by Peter Churchyard <iframe width="420" height="315" src="//www.youtube.com/embed/rvLWifnFIUs" frameborder="0" allowfullscreen></iframe>
 
-4. "Make a Musical Instrument Using Scratch" <iframe width="420" height="315" src="//www.youtube.com/embed/OZhn1vG_toM" frameborder="0" allowfullscreen></iframe>
+4. "littleBits Logic Rhythm circuit" <iframe width="560" height="315" src="//www.youtube.com/embed/EDO4y7yzM3w" frameborder="0" allowfullscreen></iframe>
 
 ## Your Fellow BitStars
 ### [Ashley Elsdon, Soundlab](http://littlebits.cc/educator-spotlight-ashley-elsdon-soundlab)
