@@ -8,7 +8,7 @@ published: true
 ## Your Weekly Invention: Invent Your Own Synth Boombox
 So you've made an instrument, and joined forces with others to create a symphony. Now what? Time to take your sound skills to the next level and make a home-grown object that plays a song. This is an advanced module that is great for your face-to-face meetups: once you have the prototype up-and-running, you can add more complexity and flair. 
 
-For this module, you're going to need bits from the [Synth Kit](http://littlebits.cc/kits/synth-kit), the [Arduino Kit](http://littlebits.cc/kits/arduino-coding-kit)and an [Arduino](http://arduino.cc/) microcontroller. 
+For this module, you're going to need bits from the [Synth Kit](http://littlebits.cc/kits/synth-kit) and the [Arduino Kit](http://littlebits.cc/kits/arduino-coding-kit). 
 
 ## Design Constraints
 1. Your synth boombox will feature a bass line + melody.
