@@ -63,6 +63,6 @@ Upload your project to littleBits [Maker Hub](http://littlebits.cc/projects) and
 - a video of your project working (and booming)
 
 ## Next Steps:
-- Discuss Module 2
-- Re/hack Module 2
-- Meetup Module 2
+- Discuss Module 3
+- Re/hack Module 3
+- Meetup Module 3
