@@ -40,19 +40,21 @@ Arduino code and circuit sketches included to help you feel safe, comfy and crea
 <iframe width="560" height="315" src="//www.youtube.com/embed/o97j4Lim8H8" frameborder="0" allowfullscreen></iframe>
 
 ## Your Fellow BitStars
-### [JackANDJude, Ice Cream Jukebox](http://littlebits.cc/projects/ice-cream-jukebox)
+### Ron Millar
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/jC6xz3a_eyc" frameborder="0" allowfullscreen></iframe>
+Ron has made some amazing sounds that would totally suit a space-themed game:
 
-### [Makedojo, Cardboard Accordion](http://littlebits.cc/projects/cardboard-accordion)
+- http://instagram.com/p/tO-PxprbuL/
+- http://instagram.com/p/tPiPFxrbrN/
+- http://instagram.com/p/tPkNqGLbtB/
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/R00z7T3Q7J4" frameborder="0" allowfullscreen></iframe>
+### Andrea / DB605
 
->I made an Accordion from everyday stuff and littlebits.
+<iframe width="653" height="489" src="//www.youtube.com/embed/zmQyJA3l3c8" frameborder="0" allowfullscreen></iframe>
 
->It looks like a traditional style Accordion,but it's a synthesizer.
+>A impro electronic-industrial track testing Korg's LittleBits. DB605 is a solo project by Andrea from My Right of Frost steampunk circuit bending industrial band.
 
->I can play a keyboard with left hand and I can make my own sound with right hand.
+> My Right of Frost draws sound signs from electronic circuits rewired and made unstable up to the feedback’s critical point. The sequences proposed are totally improvised from the point of view of the musical value of the sounds, and tonally unrepeatable. Across and beyond the concept of circuit bending, My Right of Frost operates constantly on the verge of oscillators and filter’s collapse, extemporizing electronic paths that diverge to form a macro-sign, i.e. the artwork.
 
 ## Share Your Invent 
 Upload your project to littleBits [Maker Hub](http://littlebits.cc/projects) and post the link below. Make sure in your upload, you mention
