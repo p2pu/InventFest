@@ -24,7 +24,11 @@ the [Synth Kit](http://littlebits.cc/kits/synth-kit) and the [Arduino Kit](http:
 2. [Arduino MIDI Synth with LFO, Portamento, and Pitch Wheel](http://littlebits.cc/projects/arduino-midi-synth-with-lfo-portamento-and-pitch-wheel)
 <iframe width="653" height="367" src="//www.youtube.com/embed/7EXh6XY0Fgk" frameborder="0" allowfullscreen></iframe>
 
-3. [Music LED Light Box](http://www.instructables.com/id/Music-LED-Light-Box/)
+3. [Advanced Synth Circuit with Ring Modulation and Keyboard](http://littlebits.cc/projects/ring-modulation)
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/3yz6iNC-xrA" frameborder="0" allowfullscreen></iframe>
+
+4. [Music LED Light Box](http://www.instructables.com/id/Music-LED-Light-Box/)
 <iframe width="420" height="315" src="//www.youtube.com/embed/HPhm8VTCWpg" frameborder="0" allowfullscreen></iframe>
 
 (not made with littleBits Synth Kit, but you get the idea of what the synth kit could do). 
