@@ -17,27 +17,9 @@ the [Synth Kit](http://littlebits.cc/kits/synth-kit) and the [Arduino Kit](http:
 3. When you upload your project, say a bit about the game you envisioned accompanying this sound.  
 
 ## Inspiration, Examples and Support
-### Directions from littleBits and OK Go on how to use Synth + Arduino to create your own nifty song-maker. 
-Arduino code and circuit sketches included to help you feel safe, comfy and creative.
-[littleBits + OK Go "Another Set of Objects](http://littlebits.cc/projects/ok-go-another-set-of-objects-synth)
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/pobPgTv8dy4" frameborder="0" allowfullscreen></iframe>
 
-### If you need a little help understanding the script + basics of music theory, check out these stellar resources:
 
-- Andy Drudy, ["Crash Course in Music Theory of Guitarists"](http://www.andydrudy.com/lessons/Crash_Course_in_Music_Theory_for_Guitarists.pdf)
-- Ryan Leach, ["The Contemporary Musician’s Guide to Counterpoint"](http://music.tutsplus.com/tutorials/the-contemporary-musicians-guide-to-counterpoint--audio-4630) and ["Music Theory: Intervals, and How to Derive Them"](http://music.tutsplus.com/tutorials/music-theory-intervals-and-how-to-derive-them--audio-4559)
-- P2PU and NYU, ["Play With Your Music: a Playful Introduction to Audio Engineering"](http://www.playwithyourmusic.org/)
-
-### If you'd like to brush up on the basics of Arduino + littleBits, here are some helpful "tips and tricks"
-
-[Tips and Tricks: Arduino Module](http://littlebits.cc/tips-tricks-arduino-module)
-
-<iframe width="560" height="315" src="//www.youtube.com/embed/FXQ9d3qJt3Q" frameborder="0" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="//www.youtube.com/embed/AzFYCDB2tjE" frameborder="0" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="//www.youtube.com/embed/o97j4Lim8H8" frameborder="0" allowfullscreen></iframe>
 
 ## Your Fellow BitStars
 ### Ron Millar
