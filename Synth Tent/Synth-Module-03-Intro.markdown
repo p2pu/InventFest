@@ -18,7 +18,16 @@ the [Synth Kit](http://littlebits.cc/kits/synth-kit) and the [Arduino Kit](http:
 
 ## Inspiration, Examples and Support
 
+1. [Beginner Percussion and Melody Synth](http://www.instructables.com/id/Beginner-Percussion-and-Melody-Synth/)
+<iframe width="420" height="315" src="//www.youtube.com/embed/VetxUft4gE4" frameborder="0" allowfullscreen></iframe>
 
+2. [Arduino MIDI Synth with LFO, Portamento, and Pitch Wheel](http://littlebits.cc/projects/arduino-midi-synth-with-lfo-portamento-and-pitch-wheel)
+<iframe width="653" height="367" src="//www.youtube.com/embed/7EXh6XY0Fgk" frameborder="0" allowfullscreen></iframe>
+
+3. [Music LED Light Box](http://www.instructables.com/id/Music-LED-Light-Box/)
+<iframe width="420" height="315" src="//www.youtube.com/embed/HPhm8VTCWpg" frameborder="0" allowfullscreen></iframe>
+
+(not made with littleBits Synth Kit, but you get the idea of what the synth kit could do). 
 
 
 ## Your Fellow BitStars
