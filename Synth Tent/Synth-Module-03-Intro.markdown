@@ -8,13 +8,13 @@ published: true
 ## Your Weekly Invention: Game Sound Design
 We all remember the iconic music of Zelda, Sonic and Tetris (well, maybe some of us were more Pong folks). This module will show you the amazing creative freedom of sound design. 
 
-This module will build upon what you'e learned so far from 
-For this module, you're going to need bits from the [Synth Kit](http://littlebits.cc/kits/synth-kit), the [Arduino Kit](http://littlebits.cc/kits/arduino-coding-kit)and an [Arduino](http://arduino.cc/) microcontroller. 
+This module will build upon what you'e learned so far from using the 
+the [Synth Kit](http://littlebits.cc/kits/synth-kit) and the [Arduino Kit](http://littlebits.cc/kits/arduino-coding-kit). 
 
 ## Design Constraints
-1. Your synth boombox will feature a bass line + melody.
-2. To make your box, "upcycle" something in your house, like a spare doorknob, mixing bowl, or a broom. 
-3. Use a bit you haven't paid much attention to before. For this activity, [filters](http://littlebits.cc/bits/filter) and the [mix](http://littlebits.cc/bits/mix) bits will be useful. Be sure to include "how you got to know your bit" when you upload your project. 
+1. Your song will need to feature loops for "victory" and "defeat."
+2. The sound should last at least 60 seconds. 
+3. When you upload your project, say a bit about the game you envisioned accompanying this sound.  
 
 ## Inspiration, Examples and Support
 ### Directions from littleBits and OK Go on how to use Synth + Arduino to create your own nifty song-maker. 
