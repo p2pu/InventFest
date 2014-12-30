@@ -3,11 +3,12 @@ title: Intro
 published: true
 ---
 
-# Synth Module Week 2: Dance Party
+# Synth Module Week 3: Video Game Maestro
 
-## Your Weekly Invention: Invent Your Own Synth Boombox
-So you've made an instrument, and joined forces with others to create a symphony. Now what? Time to take your sound skills to the next level and make a home-grown object that plays a song. This is an advanced module that is great for your face-to-face meetups: once you have the prototype up-and-running, you can add more complexity and flair. 
+## Your Weekly Invention: Game Sound Design
+We all remember the iconic music of Zelda, Sonic and Tetris (well, maybe some of us were more Pong folks). This module will show you the amazing creative freedom of sound design. 
 
+This module will build upon what you'e learned so far from 
 For this module, you're going to need bits from the [Synth Kit](http://littlebits.cc/kits/synth-kit), the [Arduino Kit](http://littlebits.cc/kits/arduino-coding-kit)and an [Arduino](http://arduino.cc/) microcontroller. 
 
 ## Design Constraints
