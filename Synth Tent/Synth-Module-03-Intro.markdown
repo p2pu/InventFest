@@ -28,10 +28,18 @@ the [Synth Kit](http://littlebits.cc/kits/synth-kit) and the [Arduino Kit](http:
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/3yz6iNC-xrA" frameborder="0" allowfullscreen></iframe>
 
-4. [Music LED Light Box](http://www.instructables.com/id/Music-LED-Light-Box/)
-<iframe width="420" height="315" src="//www.youtube.com/embed/HPhm8VTCWpg" frameborder="0" allowfullscreen></iframe>
+4. [Arduino at Heart Music Machine](http://littlebits.cc/projects/arduino-at-heart-music-machine):
 
-(not made with littleBits Synth Kit, but you get the idea of what the synth kit could do). 
+<iframe width="560" height="315" src="//www.youtube.com/embed/Cg3JyWSR_dE" frameborder="0" allowfullscreen></iframe>
+
+>STEP 5
+
+>To compose your own music: 
+A. Identify the notes you want to play. I don’t read music well, so I go by piano keys, and I got a LOT of help from my musician brother Joe Alvear! (Thanks, Joe! Could not have done it without you!) You can use whatever method works for you. Enter these values as a series of frequencies separated by commas in the int melody[] section. Be very careful with notes that go up or down an octave. 
+B. Identify the duration of each note in the int noteDurations[] section. This was very tricky for me. Lower numbers mean the note last longer; higher numbers are shorter duration. Also some songs sound better using multiples of 2 while others are better in multiples of 3; you’ll just have to play with it (or have your musician brother help you). Also, you must have a duration value for every note in the melody section. 
+C. Finally, in the line that reads: 
+for (int thisNote = 0; thisNote < 8; thisNote++) 
+replace the “8” with the total number of notes in the song.
 
 
 ## Your Fellow BitStars
