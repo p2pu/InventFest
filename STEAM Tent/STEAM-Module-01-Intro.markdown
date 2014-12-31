@@ -15,6 +15,8 @@ As educators ourselves, we believe in tinkering and remixing as core learning me
 
 ### [Logic Modules: an Introduction](https://lb-community.s3.amazonaws.com/uploads/supporting_file/asset/377/LOGIC_LESSONS_littleBits_big.pdf)
 
+### [Introduction to Logic](http://littlebits.cc/browse-lessons/introduction-to-logic)
+
 ### [Make Complex Synth Sounds with Ring Modulators](http://littlebits.cc/projects/ring-modulation)
 
 <iframe width="653" height="367" src="//www.youtube.com/embed/3yz6iNC-xrA" frameborder="0" allowfullscreen></iframe>
