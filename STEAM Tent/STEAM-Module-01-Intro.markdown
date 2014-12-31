@@ -1,8 +1,10 @@
 
-# Synth Module Week 1: BYO Instrument
-If you are here, you likely have tinkered with the [Synth Kit](http://littlebits.cc/kits/synth-kit) before. We'll be using bits from the Synth Kit throughout this tent, so you may want to snag those online or [swing by Radioshack](http://www.radioshack.com/littlebits?utm_source=google&utm_medium=ppc&utm_campaign=RSO_SRC_EN_NCA_TM_E_Manufacturer&CID=ip:SEM:RSO:Google:radio-shack_little_bits&gclid=COuhiJCTwcICFajm7AodCVYApQ&gclsrc=aw.ds). 
+# Synth Module Week 1: Tinkering with Logic
+Welcome eduatorly folks. If you are here, you likely work with younger Bit'sters in classrooms, libraries and makerspaces. These modules will help you plan face-to-face STEAM activities, get support from the littleBits team, and connect to other educators over the interwebs. It's gonna be stellar. 
 
-To get us started, we’ll be playing with a song you already love. What's a tune you played over and over as a teenager?? Tom Petty, the Eagles or Pat Benetar are *not* embarrassing. Do a Google search for the track online. Choose particular sound in the song--we’re going to make an instrument for it. 
+For your first weekly make, we'll be playing with gates and making things go. You'll likely need bits from the [Logic Expansion Pack](http://littlebits.cc/expansion-packs/logic) and you may want to scope out the [Space Kit](http://littlebits.cc/kits/space-kit) as well. 
+
+As educators ourselves, we believe in tinkering and remixing as core learning methods, and we're going to model those with you. To wit, we'll be copying complex circuits other people make, and then hacking them to meet our needs. 
 
 ## Design Constraints
 1. Instrument must reflect a unique sound from a song of your youth.
