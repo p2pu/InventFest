@@ -13,7 +13,7 @@ As educators ourselves, we believe in tinkering and remixing as core learning me
 
 ## Inspiration, Examples and Support
 
-1. [Make Complex Synth Sounds with Ring Modulators](http://littlebits.cc/projects/ring-modulation)
+### [Make Complex Synth Sounds with Ring Modulators](http://littlebits.cc/projects/ring-modulation)
 
 <iframe width="653" height="367" src="//www.youtube.com/embed/3yz6iNC-xrA" frameborder="0" allowfullscreen></iframe>
 
@@ -21,7 +21,7 @@ As educators ourselves, we believe in tinkering and remixing as core learning me
 
 ![](/Images/Ring2.jpeg)
 
-2. [Clock Division and Multiplication](http://littlebits.cc/browse-lessons/clock-division-with-littlebits)
+### [Clock Division and Multiplication](http://littlebits.cc/browse-lessons/clock-division-with-littlebits)
 
 ![](/Images/Clock1.png)
 ![](/Images/Clock2.png)
@@ -29,21 +29,24 @@ As educators ourselves, we believe in tinkering and remixing as core learning me
 ![](/Images/Clock4.png)
 ![](/Images/Clock5.png)
 
-3. [Music Meets Physics with Beats](http://littlebits.cc/browse-lessons/music-meets-physics-with-beats)
+### [Music Meets Physics with Beats](http://littlebits.cc/browse-lessons/music-meets-physics-with-beats)
 
-4. [Logic Rhythm](http://littlebits.cc/projects/logic-rhythm) 
+### [Logic Rhythm](http://littlebits.cc/projects/logic-rhythm) 
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/EDO4y7yzM3w" frameborder="0" allowfullscreen></iframe>
 
 ![](/Images/Logic1.PNG)
 
 ## Your Fellow BitStars
-### [Ashley Elsdon, Soundlab](http://littlebits.cc/educator-spotlight-ashley-elsdon-soundlab)
->Which product did you use and what made you decide to choose this?
+### Paul Treadwell
 
->The Synth Kit has allowed us to get users to experiment with sound making in a very personal way. In the film  we’ve just made (below), we were in a workshop for users to create creature sounds. The Synth Kit was ideal for this and gave us a way for users to not only create sounds but to use the kit to physically make their sounds and understand how the different modules worked together. The product is great because it helps you find weird organic sounds through experimentation.
+>My most recent teaching experience with littleBits came as part of a large 4-H program on campus at Cornell University. For the past twelve years I’ve worked with 4-H youth on a variety of technology centered projects – from prototyping mobile devices to digital storytelling. This year, my focus shifted to a more maker oriented program. Kids are swimming in technology, but it is mostly a black box. I wanted to do something that opened that box, at least a little bit.
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/zu0WlKXGE5c" frameborder="0" allowfullscreen></iframe>
+>littleBits came to mind immediately as I began the process of planning for this session. I wanted to provide a range of activities of varying technical skill levels, in order to accommodate a mix of technical facility in my participants.
+
+>One of the ground level learnings I wanted to facilitate was a basic understanding of how components fit together to create something. This may seem a bit facile but over the years, and over a range of topics, I have found that kids can work quite well with technology without more than a surface acquaintance of what makes things go zoom. littleBits provide a fun and easy way for kids with no prior experience or understanding of circuits to grab a  handful, sit down with minimal guidance and begin connecting things to see what happens. 
+
+[Minecraft + littleBits = Out of the Box Learning](http://littlebits.cc/educator-spotlight-paul-treadwell)
 
 ### [Hitoshi Takagaki, Kalimba](http://littlebits.cc/community-spotlight-hitoshi-takagaki)
 <iframe width="420" height="315" src="//www.youtube.com/embed/NyMAQyYttSM" frameborder="0" allowfullscreen></iframe>
@@ -56,9 +59,9 @@ Upload your project to littleBits [Maker Hub](http://littlebits.cc/projects) and
 - List the resources you consulted to help others in the future
 
 Next Steps:
-1. Readings on Music Education / Music Creation
-2. Group Activity
-3. Re/hack: Hack this Module
+1. Discuss Module 1 for STEAM
+2. Group Activity Meetup
+3. Re/hack: Hack Module 1
 
 
 
