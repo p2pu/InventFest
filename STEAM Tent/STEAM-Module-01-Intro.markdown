@@ -7,14 +7,15 @@ For your first weekly make, we'll be playing with gates and making things go. Yo
 As educators ourselves, we believe in tinkering and remixing as core learning methods, and we're going to model those with you. To wit, we'll be copying complex circuits other people make, and then hacking them to meet our needs. 
 
 ## Design Constraints
-1. Instrument must reflect a unique sound from a song of your youth.
-2. It must play more than 3 notes.
-3. Take a video of you playing the instrument that lasts more than 30 seconds.
+1. Select a complex circuit from the inspiration and examples below: we've provided musical, artistic and goofy examples for you to riff on.  
+2. Remove and/or replace two module bits from the circuit. 
+3. Make a short video of you explaining what you changed and what the circuit does now that it didn't before. 
 
 ## Inspiration, Examples and Support
 
-1. Directions from littleBits on how to [Make Your Own Keytar](http://littlebits.cc/projects/keytar): 
-![](/Images/Keytar.png)
+1. [Make Complex Synth Sounds with Ring Modulators](http://littlebits.cc/projects/ring-modulation)
+
+<iframe width="653" height="367" src="//www.youtube.com/embed/3yz6iNC-xrA" frameborder="0" allowfullscreen></iframe>
 
 2. "LittleBits Broomstick Guitar" by Peter Churchyard <iframe width="420" height="315" src="//www.youtube.com/embed/rvLWifnFIUs" frameborder="0" allowfullscreen></iframe>
 
