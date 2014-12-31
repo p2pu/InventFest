@@ -22,6 +22,9 @@ As educators ourselves, we believe in tinkering and remixing as core learning me
 
 3. [Music Meets Physics with Beats](http://littlebits.cc/browse-lessons/music-meets-physics-with-beats)
 
+4. [Logic Rhythm](http://littlebits.cc/projects/logic-rhythm) 
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/EDO4y7yzM3w" frameborder="0" allowfullscreen></iframe>
 
 
 ## Your Fellow BitStars
