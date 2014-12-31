@@ -17,20 +17,25 @@ As educators ourselves, we believe in tinkering and remixing as core learning me
 
 <iframe width="653" height="367" src="//www.youtube.com/embed/3yz6iNC-xrA" frameborder="0" allowfullscreen></iframe>
 
-![](/Images/Ring1.png)
+![](/Images/Ring1.pdf)
 
-![](/Images/Ring2.png)
+![](/Images/Ring2.jpeg)
 
 2. [Clock Division and Multiplication](http://littlebits.cc/browse-lessons/clock-division-with-littlebits)
 
+![](/Images/Clock1.png)
+![](/Images/Clock2.png)
+![](/Images/Clock3.png)
+![](/Images/Clock4.png)
+![](/Images/Clock5.png)
 
 3. [Music Meets Physics with Beats](http://littlebits.cc/browse-lessons/music-meets-physics-with-beats)
-
 
 4. [Logic Rhythm](http://littlebits.cc/projects/logic-rhythm) 
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/EDO4y7yzM3w" frameborder="0" allowfullscreen></iframe>
 
+![](/Images/Logic1.PNG)
 
 ## Your Fellow BitStars
 ### [Ashley Elsdon, Soundlab](http://littlebits.cc/educator-spotlight-ashley-elsdon-soundlab)
