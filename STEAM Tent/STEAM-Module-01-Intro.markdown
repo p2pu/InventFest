@@ -39,6 +39,7 @@ As educators ourselves, we believe in tinkering and remixing as core learning me
 
 ## Your Fellow BitStars
 ### Paul Treadwell
+Distance Learning Advisor, Cornell Cooperative Extension
 
 >My most recent teaching experience with littleBits came as part of a large 4-H program on campus at Cornell University. For the past twelve years I’ve worked with 4-H youth on a variety of technology centered projects – from prototyping mobile devices to digital storytelling. This year, my focus shifted to a more maker oriented program. Kids are swimming in technology, but it is mostly a black box. I wanted to do something that opened that box, at least a little bit.
 
@@ -48,9 +49,12 @@ As educators ourselves, we believe in tinkering and remixing as core learning me
 
 [Minecraft + littleBits = Out of the Box Learning](http://littlebits.cc/educator-spotlight-paul-treadwell)
 
-### [Hitoshi Takagaki, Kalimba](http://littlebits.cc/community-spotlight-hitoshi-takagaki)
-<iframe width="420" height="315" src="//www.youtube.com/embed/NyMAQyYttSM" frameborder="0" allowfullscreen></iframe>
+### Ginger Butcher
+NASA Goddard Space Flight Center's Education & Outreach Specialist
 
+<iframe width="652" height="366" src="//www.youtube.com/embed/QUeZi_FxaSo" frameborder="0" allowfullscreen></iframe>
+
+[Meet the Maker: Echo the Bat](http://littlebits.cc/makers/ginger-butcher-nasa-goddard-space-flight-centers-education-outreach-specialist)
 
 ## Share Your Invent 
 Upload your project to littleBits [Maker Hub](http://littlebits.cc/projects) and post the link below. Make sure in your upload, you model a ["reflective design process"](http://en.wikipedia.org/wiki/Reflective_practice) and include:
