@@ -17,10 +17,15 @@ As educators ourselves, we believe in tinkering and remixing as core learning me
 
 <iframe width="653" height="367" src="//www.youtube.com/embed/3yz6iNC-xrA" frameborder="0" allowfullscreen></iframe>
 
+![](/Images/Ring1.png)
+
+![](/Images/Ring2.png)
+
 2. [Clock Division and Multiplication](http://littlebits.cc/browse-lessons/clock-division-with-littlebits)
 
 
 3. [Music Meets Physics with Beats](http://littlebits.cc/browse-lessons/music-meets-physics-with-beats)
+
 
 4. [Logic Rhythm](http://littlebits.cc/projects/logic-rhythm) 
 
