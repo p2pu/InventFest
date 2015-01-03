@@ -60,13 +60,6 @@ Distance Learning Advisor, Cornell Cooperative Extension
 
 [Minecraft + littleBits = Out of the Box Learning](http://littlebits.cc/educator-spotlight-paul-treadwell)
 
-### Ginger Butcher
-NASA Goddard Space Flight Center's Education & Outreach Specialist
-
-<iframe width="652" height="366" src="//www.youtube.com/embed/QUeZi_FxaSo" frameborder="0" allowfullscreen></iframe>
-
-[Meet the Maker: Echo the Bat](http://littlebits.cc/makers/ginger-butcher-nasa-goddard-space-flight-centers-education-outreach-specialist)
-
 ## Share Your Invent 
 Upload your project to littleBits [Maker Hub](http://littlebits.cc/projects) and post the link below. Make sure in your upload, you model a ["reflective design process"](http://en.wikipedia.org/wiki/Reflective_practice) and include:
 - The specific bits you used in the project
