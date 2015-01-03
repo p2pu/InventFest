@@ -7,6 +7,11 @@ Links curated
 http://littlebits.cc/projects/littlebits-hue-lighting-controller
 
 
+Drawing Bots, Generative Art Machines
+
+http://littlebits.cc/browse-lessons/drawing-bots-generative-art-machines
+
+
 # Kickstart the ‘Fest
 ## Inventing in Your Life
 - Finding a problem space that is close to your life "Take your favorite song. Which instruments are in there? Let’s make one of those."
