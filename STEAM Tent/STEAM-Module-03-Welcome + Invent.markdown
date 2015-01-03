@@ -15,6 +15,8 @@ After you design your own pet, we're going to ask you to build an ecosystem with
 
 ## Inspiration, Examples and Support
 
+
+
 ### [Educator Spotlight: Janice Novakowski, Inquiry-based STEM/STEAM pilot project in the classroom](http://littlebits.cc/educator-spotlight-janice-novakowski)
 
 What is your favorite littleBits project?
