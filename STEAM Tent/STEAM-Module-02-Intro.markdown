@@ -14,7 +14,7 @@ http://littlebits.cc/browse-lessons/how-to-discover-a-planet
 Experiment: Standing Waves and Resonance on an Elastic Cord
 http://littlebits.cc/browse-lessons/standing-waves-and-resonance-in-an-elastic-cord
 
-![](/Images/large_OK_GO_Synth_Bits_annotated.png)
+
 
 
 
@@ -30,6 +30,7 @@ Student teams are given 3 hours to design and build their creation based on the 
 
 ![](/Images/istem.jpg)
 
+[Case Study: District-Wide STEM Challenge](http://littlebits.cc/education-case-study-district-wide-stem-challenge)
 
 ## Share Your Invent 
 Upload your project to littleBits [Maker Hub](http://littlebits.cc/projects) and post the link below. Make sure in your upload, you mention
