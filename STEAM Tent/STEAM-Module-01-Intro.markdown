@@ -43,6 +43,11 @@ As educators ourselves, we believe in tinkering and remixing as core learning me
 
 ![](/Images/Logic1.PNG)
 
+### [Multiplexers: Sharing a Communications Channel](http://littlebits.cc/browse-lessons/multiplexers-sharing-a-communication-channel) 
+>The basic idea of multiplexing is to transmit two or more analog messages or digital signals concurrently over a single communication channel, thus sharing what might be an expensive resource.  As an example in the telephone industry, a number of phone calls can be carried on a single wire.  Another example is a home stereo system remote control that allows one to select between a CD player, a DVD player, or cable TV.  Sound systems having digital output can carry several channels over a single fiber optic cable.  In electronics, a multiplexer, or MUX for short, is a device that performs this multiplexing function— forwarding the selected input into a single channel.  In this lesson we will study digital multiplexing in which the number of inputs is a power of two (2, 4, 8, 16, …) and there is one output.  We will see how to select one of the inputs and send it down the single output channel.
+
+![](/Images/mux.jpeg)
+
 ## Your Fellow BitStars
 ### Paul Treadwell
 Distance Learning Advisor, Cornell Cooperative Extension
