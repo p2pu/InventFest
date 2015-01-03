@@ -4,8 +4,10 @@ published: true
 ---
 
 # STEAM Module Week 2: Intergalactic Classroom
+This week we will focus on storytelling, space exploration, and classroom activity design. You'll need some of the bits associated with the [littleBits Space Kit](http://littlebits.cc/kits/space-kit) which if you haven't seen before, check it out in action!
 
-## Your Weekly Invention: 
+<iframe width="455" height="255" src="//www.youtube.com/embed/WrywrtSnSog" frameborder="0" allowfullscreen></iframe>
+
 ## Design Constraints
 ## Inspiration, Examples and Support
 
