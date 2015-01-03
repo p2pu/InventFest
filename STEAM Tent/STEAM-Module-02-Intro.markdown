@@ -9,6 +9,7 @@ published: true
 ## Design Constraints
 ## Inspiration, Examples and Support
 
+How to Discover a Planet
 http://littlebits.cc/browse-lessons/how-to-discover-a-planet
 
 Experiment: Standing Waves and Resonance on an Elastic Cord
