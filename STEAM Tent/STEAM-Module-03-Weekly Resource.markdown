@@ -3,21 +3,13 @@ title: Projects
 published: true
 ---
 
-# Synth Module 3: What Else Can We Do with Video Game Music?
+# STEAM Module 3 What on Earth is Bioluminesence?
 
-### Turning Video Game Music into Hip Hop Beats
+>In the deep, dark ocean, many sea creatures make their own light for hunting, mating and self-defense. Bioluminescence expert Edith Widder was one of the first to film this glimmering world. At TED2011, she brings some of her glowing friends onstage, and shows more astonishing footage of glowing undersea life.
 
-<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/182172388&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
-
->via Bitch Media's twice-monthly feminist pop culture podcast Popaganda, which digs into movies, books, TV, and media. 
+<iframe width="640" height="390" src="//www.youtube.com/embed/IDkSDPgrtjs" frameborder="0" allowfullscreen></iframe>
 
 # Questions: 
 
-1. How might you use video game music in the future?
-2. How are you thinking about ownership and sampling in the era of Creative Commons and online communities? 
-3. Which sounds are inclusive to a diverse audience? Which sounds aren't? Why?
-
-
-
-
-
+1. Why does light fascinate us? Consider our obsession with LEDs, neon signs, even litebrite. How can littleBits projects tap our obsession?
+2. Widders tells us that, through tracking pollution, bioluminesence shows how our ecosystems are connected. What other examples could you use to illustrate how ecosystems are connected?
