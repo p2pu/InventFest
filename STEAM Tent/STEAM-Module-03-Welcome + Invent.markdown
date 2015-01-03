@@ -15,7 +15,23 @@ After you design your own pet, we're going to ask you to build an ecosystem with
 
 ## Inspiration, Examples and Support
 
+### [Exploring Bioluminesence with littleBits](http://littlebits.cc/browse-lessons/exploring-bioluminescence-with-littlebits)
 
+### [Exploring Light and Plant Pigments with littleBits and FastPlants](http://littlebits.cc/projects/exploring-light-and-plant-pigments-with-littlebits-and-fastplants)
+
+### [SeedSpinner: Simulating microG with littleBits and FastPlants](http://littlebits.cc/browse-lessons/seedspinner-simulating-microg-with-littlebits-and-fastplants)
+
+>Based on original research in Michael Wilkinson's 4th Grade Science Classroom at Fieldston Lower School ECFS (http://www.ecfs.org, http://mwmathsci.blogspot.com)
+
+>littleBits in the elementary science lab facilitates a STEAM process that enables students to easily design, build and engineer prototypes of lab apparatus that would otherwise be inaccessible. The following project is an illustration of how littleBits can be used to support serious scientific inquiry.
+
+>Authentic scientific exploration often relies on engineering apparatus to facilitate obtaining the data that supports or contradicts a hypothesis.
+
+>ENGINEERING CHALLENGE: How can littleBits be combined with other materials to build an apparatus and prove that the direction in which a seedling's roots grow is affected by gravity?
+
+>OBJECTIVE: Students will engineer a littleBits lab apparatus to negate the effect of gravity on plant seedlings.
+
+>PROJECT: The design shown here is our solution to this challenge. For full lesson instruction, see http://littlebits.cc/browse-lessons/seedspinner-simulating-microg-with-littlebits-and-fastplants
 
 ### [Educator Spotlight: Janice Novakowski, Inquiry-based STEM/STEAM pilot project in the classroom](http://littlebits.cc/educator-spotlight-janice-novakowski)
 
