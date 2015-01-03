@@ -9,7 +9,7 @@ This week we will focus on storytelling, space exploration, and classroom activi
 <iframe width="455" height="255" src="//www.youtube.com/embed/WrywrtSnSog" frameborder="0" allowfullscreen></iframe>
 
 ## Design Constraints
-1. Peruse the experiments fellow STEAM educators have made using littleBits below. 
+1. Peruse the experiments + activities your fellow STEAM educators have made using littleBits below. 
 2. Design an experiment you could conduct using a littleBits sensor, with a student-written lab report at the end. 
 3. Experiment should explore what our planet is made out of, gravity or reflection.
 4. Write 3-5 prompts and playtest the experiment with your students. Post your lesson plan in the Discourse discussion below. 
@@ -24,17 +24,11 @@ This week we will focus on storytelling, space exploration, and classroom activi
 
 ![](Images/planet.jpg)
 
-Experiment: Standing Waves and Resonance on an Elastic Cord
-http://littlebits.cc/browse-lessons/standing-waves-and-resonance-in-an-elastic-cord
+### [Experiment: Standing Waves and Resonance on an Elastic Cord](http://littlebits.cc/browse-lessons/standing-waves-and-resonance-in-an-elastic-cord)
 
-Space Lesson: Satellite Dish
-http://littlebits.cc/browse-lessons/space-lesson-satellite-dish
+### [Design + Control Your Own Universe](http://littlebits.cc/projects/headquarters)
 
-Space Lesson: Star Chart
-http://littlebits.cc/browse-lessons/space-lesson-star-chart
-
-Space Lesson: Satellite Orbit
-http://littlebits.cc/browse-lessons/space-lesson-satellite-orbit
+<iframe width="652" height="366" src="//www.youtube.com/embed/PS3kzf_eLVo" frameborder="0" allowfullscreen></iframe>
 
 ## Your Fellow BitStars
 
