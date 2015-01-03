@@ -39,6 +39,12 @@ NASA Goddard Space Flight Center's Education & Outreach Specialist
 
 [Meet the Maker: Echo the Bat](http://littlebits.cc/makers/ginger-butcher-nasa-goddard-space-flight-centers-education-outreach-specialist)
 
+### Mr. STEAM
+
+>Ultimately, I want to teach urban students the art of Engineering by using Art & Music to gain their interest within the subject! After meeting Ayah Bdeir and using littleBits, I knew this was the perfect solution to teach students in a fun & interactive way. I am currently in the planning process of creating my own littleBits workshop to schools & community centers within the community I live now.
+
+[Meet #MR #STEAM](http://littlebits.cc/users/mr-steam)
+
 ## Share Your Invent 
 Upload your lesson plan to littleBits [Maker Hub](http://littlebits.cc/projects) and post the link below. Make sure in your upload, you mention
 - which bit you explored in detail in this Invent
@@ -46,6 +52,6 @@ Upload your lesson plan to littleBits [Maker Hub](http://littlebits.cc/projects)
 - a video of your project working (and booming)
 
 ## Next Steps:
-- Discuss Module 2
-- Re/hack Module 2
-- Meetup Module 2
+- Module 2 Weekly Resource  
+- Module 2 Community Activity 
+- Meetup Week 2
