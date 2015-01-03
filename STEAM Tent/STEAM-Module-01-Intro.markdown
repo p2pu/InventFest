@@ -1,5 +1,5 @@
 
-# Synth Module Week 1: Tinkering with Logic
+# STEAM Module Week 1: Tinkering with Logic
 Welcome eduatorly folks. If you are here, you likely work with younger Bit'sters in classrooms, libraries and makerspaces. These modules will help you plan face-to-face STEAM activities, get support from the littleBits team, and connect to other educators over the interwebs. It's gonna be stellar. 
 
 For your first weekly Invent, we'll be playing with gates and making things go. You'll likely need bits from the [Logic Expansion Pack](http://littlebits.cc/expansion-packs/logic) and you may want to scope out the [Space Kit](http://littlebits.cc/kits/space-kit) as well. 
@@ -24,6 +24,8 @@ As educators ourselves, we believe in tinkering and remixing as core learning me
 ![](/Images/Ring1.pdf)
 
 ![](/Images/Ring2.jpeg)
+
+### [Ring Modulation Explained](https://lb-community.s3.amazonaws.com/uploads/supporting_file/asset/382/RingModulationExplained.pdf)
 
 ### [Clock Division and Multiplication](http://littlebits.cc/browse-lessons/clock-division-with-littlebits)
 
