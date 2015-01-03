@@ -15,9 +15,14 @@ http://littlebits.cc/browse-lessons/how-to-discover-a-planet
 Experiment: Standing Waves and Resonance on an Elastic Cord
 http://littlebits.cc/browse-lessons/standing-waves-and-resonance-in-an-elastic-cord
 
+SPACE LESSON: SATELLITE DISH
+http://littlebits.cc/browse-lessons/space-lesson-satellite-dish
 
+SPACE LESSON: STAR CHART
+http://littlebits.cc/browse-lessons/space-lesson-star-chart
 
-
+SPACE LESSON: SATELLITE ORBIT
+http://littlebits.cc/browse-lessons/space-lesson-satellite-orbit
 
 ## Your Fellow BitStars
 ### Dr. Traci Kohler and Lindy George, 
