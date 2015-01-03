@@ -3,16 +3,25 @@ title: Intro
 published: true
 ---
 
-# STEAM Module Week 3: "Make an Ecosystem"
+# STEAM Module Week 3: "Design a Ecosystem"
+Last week we asked you to tinker with littleBits in the name of creating a community of curiosity with your littleBits crew. This week we'll be digging into how to use your bits to explore the biological elements of the world around us. 
 
+After you design your own pet, we're going to ask you to build an ecosystem with the other folks in your face-to-face crew or chapter. 
 
 ## Design Constraints
-
+1. Your pet must use more than 2 sensors. 
+2. It must respond to its environment in some way--to temperature or to touch.
+3. Your pet need not already exist in the animal kingdom. In fact, it's better if it comes from your imagination. 
 
 ## Inspiration, Examples and Support
 
+### [Educator Spotlight: Janice Novakowski, Inquiry-based STEM/STEAM pilot project in the classroom](http://littlebits.cc/educator-spotlight-janice-novakowski)
 
+What is your favorite littleBits project?
 
+When working in a grades 4 and 5 class, I watched two grade 5 students persist over three days to make their vision for a project come alive. The girls had this idea to make a small stuffed animal be able to move and dance. They drew up plans, performed surgery on a Miga (one of the Vancouver 2010 Olympics mascots) to remove the stuffing and used two DC motors as part of their littleBits circuit in Miga’s arms to make it dance. To top things off, they used a pulsing LED wire wrapped around a toilet paper roll to create a disco ball. Disco Miga was a hit and the girls pride was heartwarming.
+
+![](Images/animal.jpg)
 
 ## Your Fellow BitStars
 ### Dr. Traci Kohler and Lindy George 
