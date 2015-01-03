@@ -13,7 +13,7 @@ Directions (more below):
 - Each animal should use at least one sensor
 - Take a photo of the animals and a map of your ecosystem and post it to [MakerHub](http://littlebits.cc/projects)
 
-
+[Templates and pictures can be found here](http://littlebits.cc/browse-lessons/let-s-make-a-techno-jungle-together).
 
 
  
