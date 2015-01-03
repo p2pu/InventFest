@@ -13,9 +13,7 @@
 
 2. Ask participants to present their findings in a demonstration. 
 
-3. After completing their experiment, ask participants to tell the story of the experiment from the point-of-view of the sensor. How did the sensor feel? How did it know what was true? 
-
-4. Take a video of the event and post it below.
+3. Take a video of the event and post it below.
 
  
 
