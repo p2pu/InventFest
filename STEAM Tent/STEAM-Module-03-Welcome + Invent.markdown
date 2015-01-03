@@ -43,21 +43,18 @@ replace the “8” with the total number of notes in the song.
 
 
 ## Your Fellow BitStars
-### Ron Millar
+### Dr. Traci Kohler and Lindy George, 
+Department of STEM Resources and Instructional Technology, Collier County Public Schools
 
-Ron has made some amazing sounds that would totally suit a space-themed game:
+The culminating district-wide iSTEM Competition is held in late spring on a local college campus. For some students, it is the first time they have visited a college campus, and the visit brings a sense of awe in and of itself. At the same time as the elementary students are competing, middle and high school STEM Competition events are also happening around the campus.
 
-- http://instagram.com/p/tO-PxprbuL/
-- http://instagram.com/p/tPiPFxrbrN/
-- http://instagram.com/p/tPkNqGLbtB/
+In the elementary area, thirty (30) teams of four (4) students each are gathered in a very large room. In the center of each of the 30 tables is a container full of craft materials, a littleBits Kit, and a set of additional modules. The teacher advisors sit along the outside perimeter of the wall trusting that their students are well prepared for the challenge ahead. You can feel the combined excitement and energy of 120 students as they await the announcement of the theme and are given the go ahead to begin planning, designing and building.
 
-### Andrea / DB605
+Student teams are given 3 hours to design and build their creation based on the theme. Judges walk around and look for team work, collaboration and cooperation. Points are given for teamwork through the day as well as final project and presentation. All students on a team are expected to be able to answer questions about their project, and a final presentation is shared amongst the team. Points are even given for helping a neighboring team problem-solve. Finally each group presents their project to a team of judges. We include a “lights on” and “lights off” opportunity to each team during the judging. There is an additional 5 minutes allotted for the team to present and answer questions.
 
-<iframe width="653" height="489" src="//www.youtube.com/embed/zmQyJA3l3c8" frameborder="0" allowfullscreen></iframe>
+![](/Images/istem.jpg)
 
->A impro electronic-industrial track testing Korg's LittleBits. DB605 is a solo project by Andrea from My Right of Frost steampunk circuit bending industrial band.
-
-> My Right of Frost draws sound signs from electronic circuits rewired and made unstable up to the feedback’s critical point. The sequences proposed are totally improvised from the point of view of the musical value of the sounds, and tonally unrepeatable. Across and beyond the concept of circuit bending, My Right of Frost operates constantly on the verge of oscillators and filter’s collapse, extemporizing electronic paths that diverge to form a macro-sign, i.e. the artwork.
+[Case Study: District-Wide STEM Challenge](http://littlebits.cc/education-case-study-district-wide-stem-challenge)
 
 ## Share Your Invent 
 Upload your project to littleBits [Maker Hub](http://littlebits.cc/projects) and post the link below. Make sure in your upload, you mention
