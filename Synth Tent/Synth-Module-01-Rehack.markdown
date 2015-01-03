@@ -1,5 +1,5 @@
 
-# Synth Module: Community Activity: Make an Orchestra
+# Synth Module 1: Community Activity: Make an Orchestra
 
 ## Core Questions
 - How would you “hack” the instrument activity to meet your needs?
