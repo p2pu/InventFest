@@ -1,15 +1,17 @@
 
-# STEAM Module 1: Community Activity: 
+# STEAM Module 1 Community Activity "Get Elegant + Remix Your Logic"
 
 ## Core Questions
-- How would you “hack” the instrument activity to meet your needs?
+- How would you “hack” the logic activity to improve it?
 - If you could revise this activity for a group, what would that look like?
 - Post your activity in Discourse below. 
 - We've included a community activity you can pick up and use for your chapter or local group. 
 
-## Community Activity: Make Your Own Orchestra
+## Community Activity: "Get Elegant + Remix Your Logic"
+1. At your event, have everyone design and put together a complex logic circuit like the ones we outlined in the Module 1 Invent. 
+2. Individually, ask participants to remove 2 bits in their circuits and still have the circuit function.
+3. In pairs, ask participants to put their complex circuits together to design a creative sound or science project. What can they accomplish together (2 brains + 2 sets of bits) that is bigger than they could accomplish on their own? 
 
-MULTIPLEXER
-The basic idea of multiplexing is to transmit two or more analog messages or digital signals concurrently over a single communication channel, thus sharing what might be an expensive resource. As an example in the telephone industry, a number of phone calls can be carried on a single wire. Another example is a home stereo system remote control that allows one to select between a CD player, a DVD player, or cable TV. Sound systems having digital output can carry several channels over a single fiber optic cable. In electronics, a multiplexer, or MUX for short, is a device that performs this multiplexing function— forwarding the selected input into a single channel. In this lesson we will study digital multiplexing in which the number of inputs is a power of two (2, 4, 8, 16, …)
-and there is one output. We will see how to select one of the inputs and send it down the single output channel.
+
+
  
