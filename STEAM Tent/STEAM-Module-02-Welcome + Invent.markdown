@@ -3,45 +3,50 @@ title: Intro
 published: true
 ---
 
-# STEAM Module Week 2: Intergalactic Classroom
+# STEAM Module Week 2: Intergalactic Classroom Lesson
 This week we will focus on storytelling, space exploration, and classroom activity design. You'll need some of the bits associated with the [littleBits Space Kit](http://littlebits.cc/kits/space-kit) which if you haven't seen before, check it out in action!
 
 <iframe width="455" height="255" src="//www.youtube.com/embed/WrywrtSnSog" frameborder="0" allowfullscreen></iframe>
 
 ## Design Constraints
+1. Peruse the experiments fellow STEAM educators have made using littleBits below. 
+2. Design an experiment you could conduct using a littleBits sensor, with a student-written lab report at the end. 
+3. Experiment should explore what our planet is made out of, gravity or reflection.
+4. Write 3-5 prompts and playtest the experiment with your students. Post your lesson plan in the Discourse discussion below. 
+
 ## Inspiration, Examples and Support
 
-How to Discover a Planet
-http://littlebits.cc/browse-lessons/how-to-discover-a-planet
+### [How to Discover a Planet](http://littlebits.cc/browse-lessons/how-to-discover-a-planet)
+
+>Over the past score of years, scientists have discovered hundreds of what are known as exoplanets—planets that orbit stars outside of our own solar system.   Different groups of scientists worldwide have used a variety of methods to detect these planets.  In this lesson we will investigate a method that has been quite fruitful in finding exoplanets as a result of the Kepler Mission, launched by NASA in 2009.  Another similar mission is CoRoT, led by the French Space Agency.  These missions identify exoplanets by a method called transit, in which the brightness of a star decreases when a planet passes directly between the star and the observer.  Many of us have observed a similar phenomenon on earth that occurs when the planets Mercury or Venus transit the Sun.
+
+>In this lesson, you will simulate the transit of a planet over its star by placing the littleBits fan in front of a bright LED and use a light sensor to measure how the brightness of the light changes as the blades of the fan pass between the bright LED and the light sensor.  The fan blade corresponds to a planet and the bright LED to a star.  The fan spins rapidly, but that is no problem thanks to the littleBits Arduino module!  You will run a sketch (Arduino lingo for computer program) that automatically records the brightness changes as the fan blades “transit” the LED.  You then transfer the data to an Excel program that prepares a graph of brightness versus time for you to analyze.
+
+![](images/planet.jpg)
 
 Experiment: Standing Waves and Resonance on an Elastic Cord
 http://littlebits.cc/browse-lessons/standing-waves-and-resonance-in-an-elastic-cord
 
-SPACE LESSON: SATELLITE DISH
+Space Lesson: Satellite Dish
 http://littlebits.cc/browse-lessons/space-lesson-satellite-dish
 
-SPACE LESSON: STAR CHART
+Space Lesson: Star Chart
 http://littlebits.cc/browse-lessons/space-lesson-star-chart
 
-SPACE LESSON: SATELLITE ORBIT
+Space Lesson: Satellite Orbit
 http://littlebits.cc/browse-lessons/space-lesson-satellite-orbit
 
 ## Your Fellow BitStars
-### Dr. Traci Kohler and Lindy George, 
-Department of STEM Resources and Instructional Technology, Collier County Public Schools
 
-The culminating district-wide iSTEM Competition is held in late spring on a local college campus. For some students, it is the first time they have visited a college campus, and the visit brings a sense of awe in and of itself. At the same time as the elementary students are competing, middle and high school STEM Competition events are also happening around the campus.
+### Ginger Butcher
+NASA Goddard Space Flight Center's Education & Outreach Specialist
 
-In the elementary area, thirty (30) teams of four (4) students each are gathered in a very large room. In the center of each of the 30 tables is a container full of craft materials, a littleBits Kit, and a set of additional modules. The teacher advisors sit along the outside perimeter of the wall trusting that their students are well prepared for the challenge ahead. You can feel the combined excitement and energy of 120 students as they await the announcement of the theme and are given the go ahead to begin planning, designing and building.
+<iframe width="652" height="366" src="//www.youtube.com/embed/QUeZi_FxaSo" frameborder="0" allowfullscreen></iframe>
 
-Student teams are given 3 hours to design and build their creation based on the theme. Judges walk around and look for team work, collaboration and cooperation. Points are given for teamwork through the day as well as final project and presentation. All students on a team are expected to be able to answer questions about their project, and a final presentation is shared amongst the team. Points are even given for helping a neighboring team problem-solve. Finally each group presents their project to a team of judges. We include a “lights on” and “lights off” opportunity to each team during the judging. There is an additional 5 minutes allotted for the team to present and answer questions.
-
-![](/Images/istem.jpg)
-
-[Case Study: District-Wide STEM Challenge](http://littlebits.cc/education-case-study-district-wide-stem-challenge)
+[Meet the Maker: Echo the Bat](http://littlebits.cc/makers/ginger-butcher-nasa-goddard-space-flight-centers-education-outreach-specialist)
 
 ## Share Your Invent 
-Upload your project to littleBits [Maker Hub](http://littlebits.cc/projects) and post the link below. Make sure in your upload, you mention
+Upload your lesson plan to littleBits [Maker Hub](http://littlebits.cc/projects) and post the link below. Make sure in your upload, you mention
 - which bit you explored in detail in this Invent
 - where you might take this project next
 - a video of your project working (and booming)
