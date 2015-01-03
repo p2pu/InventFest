@@ -22,7 +22,7 @@ This week we will focus on storytelling, space exploration, and classroom activi
 
 >In this lesson, you will simulate the transit of a planet over its star by placing the littleBits fan in front of a bright LED and use a light sensor to measure how the brightness of the light changes as the blades of the fan pass between the bright LED and the light sensor.  The fan blade corresponds to a planet and the bright LED to a star.  The fan spins rapidly, but that is no problem thanks to the littleBits Arduino module!  You will run a sketch (Arduino lingo for computer program) that automatically records the brightness changes as the fan blades “transit” the LED.  You then transfer the data to an Excel program that prepares a graph of brightness versus time for you to analyze.
 
-![](Images/planet.jpeg)
+![](Images/planet.jpg)
 
 ### [Experiment: Standing Waves and Resonance on an Elastic Cord](http://littlebits.cc/browse-lessons/standing-waves-and-resonance-in-an-elastic-cord)
 
