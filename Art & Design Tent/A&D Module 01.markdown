@@ -6,10 +6,20 @@
 Links curated
 http://littlebits.cc/projects/littlebits-hue-lighting-controller
 
+Swimming Shark
+http://littlebits.cc/projects/swimming-shark--2
+
+Gramopaint
+http://littlebits.cc/projects/gramopaint
 
 Drawing Bots, Generative Art Machines
-
 http://littlebits.cc/browse-lessons/drawing-bots-generative-art-machines
+
+Thinking of You
+http://littlebits.cc/projects/thinking-of-you
+
+Shoes 
+<iframe width="400" height="225" src="//www.youtube.com/embed/uF6ZNU-04p4" frameborder="0" allowfullscreen></iframe>
 
 
 # Kickstart the ‘Fest
