@@ -21,6 +21,12 @@ http://littlebits.cc/projects/thinking-of-you
 Shoes 
 <iframe width="400" height="225" src="//www.youtube.com/embed/uF6ZNU-04p4" frameborder="0" allowfullscreen></iframe>
 
+Shapeways Contest
+http://www.shapeways.com/blog/archives/16965-make-your-3d-prints-move-with-the-little-bits-contest.html
+
+3D Files
+http://www.shapeways.com/blog/archives/16965-make-your-3d-prints-move-with-the-little-bits-contest.html/littlebits_modules_shapeways
+
 
 # Kickstart the ‘Fest
 ## Inventing in Your Life
