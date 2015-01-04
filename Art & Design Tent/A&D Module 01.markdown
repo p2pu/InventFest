@@ -27,6 +27,8 @@ http://www.shapeways.com/blog/archives/16965-make-your-3d-prints-move-with-the-l
 3D Files
 http://www.shapeways.com/blog/archives/16965-make-your-3d-prints-move-with-the-little-bits-contest.html/littlebits_modules_shapeways
 
+Creating Hinges and Moving Parts
+https://www.shapeways.com/blog/archives/141-Creating-hinges-and-moving-parts.html
 
 # Kickstart the ‘Fest
 ## Inventing in Your Life
