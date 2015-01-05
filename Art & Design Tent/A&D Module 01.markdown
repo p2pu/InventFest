@@ -1,3 +1,9 @@
+# Art and Design Module 1: Rep Your Hometown
+
+Welcome to the art + design tent for InventFest. If you are here, you probably want to learn how to connect 3-D printing and littleBits, design funky products that whirrr-and-buzzz and fashion installations that make people go "wow."
+
+
+
 # Module Template
 
 1. Represent your hometown with a sign 
