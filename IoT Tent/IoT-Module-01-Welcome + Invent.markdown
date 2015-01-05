@@ -1,6 +1,15 @@
 
 # IoT Module Week 1
 
+1. Safety First Hack
+- Bikes
+- Heat
+- Roar
+
+2. Rethinking conversation hack
+
+3. Pet Hacks
+
 http://littlebits.cc/bits/temperature-sensor-2014
 http://littlebits.cc/projects/candle-killer
 https://www.twilio.com/blog/2014/12/12-hacks-of-christmas-day-7-spread-christmas-cheer-with-littlebits-laravel-and-twilio.html
