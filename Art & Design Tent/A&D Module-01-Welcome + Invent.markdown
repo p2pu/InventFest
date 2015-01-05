@@ -11,7 +11,7 @@ We'll start this weekly Invent with a challenge to create a "bitified" sign for 
 2. The sign should tell the story of your town in your own way.
 3. Make a short video of your sign in both "on" and "off" mode and say a little bit about how it describes you.
 
-## Inspiration, Examples and Support
+# Inspiration, Examples and Support
 
 ### [2015 New Year Flashing Sign](http://littlebits.cc/projects/2015-new-year-flashing-sign)
 ![](/https://lb-community.s3.amazonaws.com/uploads/image/asset/6590/large_filled_photo__1_.JPG)
