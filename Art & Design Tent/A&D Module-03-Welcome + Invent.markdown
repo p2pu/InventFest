@@ -13,9 +13,18 @@ http://www.shapeways.com/model/2169823/dial-calipers.html?li=search-results&mate
 
 ## Inspiration, Examples and Support
 
-### 
+### [Prismo](http://littlebits.cc/projects/prismo)
 
-http://littlebits.cc/projects/prismo
+>Its goal was etablished by a simple observation : at work, more your responsabilities are importants, and less you are available for your colleagues. Except them, your family can try to join you when you’re busy.
+
+>Prismo will allow your family or your colleagues to know in real time if it’s a good time to contact you or not, by a simple light signal. If the indicator is on, you show that you’re busy. If it’s not the case, you show that you’re available.
+
+>Synchronised with Google Calendar, Prismo will automaticaly activate itself according to your meetings planification.
+![](/https://lb-community.s3.amazonaws.com/uploads/image/asset/6403/large_filled_20141211_124824.jpg)
+
+
+
+
 
 ## Your Fellow BitStars
 ### Paige Russell
