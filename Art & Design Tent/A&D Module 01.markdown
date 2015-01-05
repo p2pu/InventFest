@@ -30,6 +30,12 @@ http://www.shapeways.com/blog/archives/16965-make-your-3d-prints-move-with-the-l
 Creating Hinges and Moving Parts
 https://www.shapeways.com/blog/archives/141-Creating-hinges-and-moving-parts.html
 
+Bitify a Tool:
+http://www.shapeways.com/model/2169823/dial-calipers.html?li=search-results&materialId=99
+
+Armored Gloves:
+http://www.shapeways.com/model/2005573/internal-frame-for-armored-gloves.html?li=search-results-8&materialId=6
+
 # Kickstart the ‘Fest
 ## Inventing in Your Life
 - Finding a problem space that is close to your life "Take your favorite song. Which instruments are in there? Let’s make one of those."
