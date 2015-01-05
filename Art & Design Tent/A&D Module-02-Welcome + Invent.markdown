@@ -1,5 +1,8 @@
 # Art and Design Module 2: DIY Quantified Self
 
+Sensors allow us to track temperatures, increases in pressure, changes in sound. How can we use this data to inform our life decisions? How can we look at our behavior at a high level and see trends, ideas, habits we'd like to change?
+
+This week's "Invent" prompt will ask you to mashup a littleBits sensory input bit + human behavior. 
 
 wearables
 reflection pool: guess each other's metrics and report
