@@ -22,10 +22,6 @@ http://www.shapeways.com/model/2169823/dial-calipers.html?li=search-results&mate
 >Synchronised with Google Calendar, Prismo will automaticaly activate itself according to your meetings planification.
 ![](/https://lb-community.s3.amazonaws.com/uploads/image/asset/6403/large_filled_20141211_124824.jpg)
 
-
-
-
-
 ## Your Fellow BitStars
 ### Paige Russell
 >Paige Russell @paigeandmodern is an artist working at the Instructables Design Studio. She is also the maker of the Scent-imental Notification System which involves the nose in this whole tech revolution by releasing an assigned scent whenever you’re tagged on Instagram. We had the pleasure of talking to Paige an learning a little bit more about her practice and inspiration.
