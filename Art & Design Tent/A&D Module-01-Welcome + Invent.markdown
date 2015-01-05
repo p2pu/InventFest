@@ -21,8 +21,9 @@ We'll start this weekly Invent with a challenge to create a "bitified" sign for 
 
 ### [Creating 3-D Printed Hinges and Moving Parts](https://www.shapeways.com/blog/archives/141-Creating-hinges-and-moving-parts.html)
 
-### Neon Sequencer Sign
-https://lb-community.s3.amazonaws.com/uploads/image/asset/4451/large_filled_WorldCupProjectPageGIF_v3.gif
+### [Neon Sequencer Sign](http://littlebits.cc/projects/animated-image-sequencer)
+GOOOAAAAAL!!! This World Cup themed sign triggers wirelessly when you hit a button on your table. This project is made up of two circuits - one for the button and the other for the sign.
+![](/https://lb-community.s3.amazonaws.com/uploads/image/asset/4451/large_filled_WorldCupProjectPageGIF_v3.gif)
 
 ### Tips and Tricks: littleBits Shoes
 <iframe width="400" height="225" src="//www.youtube.com/embed/uF6ZNU-04p4" frameborder="0" allowfullscreen></iframe>
