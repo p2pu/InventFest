@@ -13,12 +13,17 @@ We'll start this weekly Invent with a challenge to create a "bitified" sign for 
 
 ## Inspiration, Examples and Support
 
+### [2015 New Year Flashing Sign](http://littlebits.cc/projects/2015-new-year-flashing-sign)
+![](/https://lb-community.s3.amazonaws.com/uploads/image/asset/6590/large_filled_photo__1_.JPG)
+
 ### [Hue Lighting Controller](http://littlebits.cc/projects/littlebits-hue-lighting-controller)
 ![](/https://lb-community.s3.amazonaws.com/uploads/image/asset/6506/large_filled_IMG_8996.JPG)
 
-Creating Hinges and Moving Parts
-https://www.shapeways.com/blog/archives/141-Creating-hinges-and-moving-parts.html
-build a city of signs and buildings
+### [Creating 3-D Printed Hinges and Moving Parts](https://www.shapeways.com/blog/archives/141-Creating-hinges-and-moving-parts.html)
+
+### Tips and Tricks: littleBits Shoes
+<iframe width="400" height="225" src="//www.youtube.com/embed/uF6ZNU-04p4" frameborder="0" allowfullscreen></iframe>
+
 
 2. DIY Quantified self
 wearables
@@ -37,8 +42,7 @@ http://www.shapeways.com/model/2169823/dial-calipers.html?li=search-results&mate
 
 
 
-Shoes 
-<iframe width="400" height="225" src="//www.youtube.com/embed/uF6ZNU-04p4" frameborder="0" allowfullscreen></iframe>
+
 
 
 
