@@ -15,7 +15,7 @@ http://www.shapeways.com/model/2169823/dial-calipers.html?li=search-results&mate
 
 ### 
 
-
+http://littlebits.cc/projects/prismo
 
 ## Your Fellow BitStars
 ### Paige Russell
