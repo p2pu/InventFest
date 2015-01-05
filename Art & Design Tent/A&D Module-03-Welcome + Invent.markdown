@@ -1,17 +1,23 @@
-# Art and Design Module 3: Safety First Challege
+# Art and Design Module 3: Safety First Challenge
 
-bikelight
-bitify a tool so it doesn't injure you
-http://fashion.eyebeam.org/projects/mindrider
-Bitify a Tool:
-http://www.shapeways.com/model/2169823/dial-calipers.html?li=search-results&materialId=99
+This week we're asking you, BitSTARs, to use littleBits to make the world a safer (and more bitified!) place. For your Weekly Invent, ask yourself the following questions:
+
+- What tools can we design to prevent accidents? 
+- What sensory data can we use to make us safer and happier?
+- Can we create a product that is less pointy/sharp/noisy/slipper than what we have now?
 
 # Design Constraints
-1. Your sign should have at least one LED/lighted part and one moving part. 
-2. The sign should tell the story of your town in your own way.
-3. Make a short video of your sign in both "on" and "off" mode and say a little bit about how it describes you.
+1. Your product should use a sensory input and a [parallel circuit](https://learn.sparkfun.com/tutorials/series-and-parallel-circuits).
+2. Describe the inspiration for the project and the problem you are trying to solve.
+3. Give your product a snappy, ["As Seen on TV"](http://www.asseenontv.com/) product name. 
 
 ## Inspiration, Examples and Support
+
+### The Mind-Reader Helmet
+<iframe src="//player.vimeo.com/video/74572651" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+>MindRider, the brain-reading bike helmet system, generates new kinds of health data and health sense-making at the individual and regional scale. Every MindRider helmet employs a distinctive combination of two head-based wearable technologies, the bike helmet and the EEG (electroencephalography) sensor, giving users new insight into their mental experiences as they ride.
+
 
 ### [Prismo](http://littlebits.cc/projects/prismo)
 
