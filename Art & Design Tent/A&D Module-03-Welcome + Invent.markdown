@@ -18,7 +18,11 @@ http://www.shapeways.com/model/2169823/dial-calipers.html?li=search-results&mate
 
 
 ## Your Fellow BitStars
- - Example folks in the community who have made the project
+### Paige Russell
+>Paige Russell @paigeandmodern is an artist working at the Instructables Design Studio. She is also the maker of the Scent-imental Notification System which involves the nose in this whole tech revolution by releasing an assigned scent whenever you’re tagged on Instagram. We had the pleasure of talking to Paige an learning a little bit more about her practice and inspiration.
+
+<iframe width="640" height="360" src="//www.youtube.com/embed/X0XkHytdmMI" frameborder="0" allowfullscreen></iframe>
+[Meet the Makers: Paige Russell](http://littlebits.cc/makers/paige-russell)
 
 ## Share Your Invent 
 Upload your project to littleBits [Maker Hub](http://littlebits.cc/projects) and post the link below. Make sure in your upload, you model a ["reflective design process"](http://en.wikipedia.org/wiki/Reflective_practice) and include:
