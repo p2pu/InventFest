@@ -28,7 +28,7 @@ GOOOAAAAAL!!! This World Cup themed sign triggers wirelessly when you hit a butt
 ### Tips and Tricks: littleBits Shoes
 <iframe width="400" height="225" src="//www.youtube.com/embed/uF6ZNU-04p4" frameborder="0" allowfullscreen></iframe>
 
-## Your Fellow BitStars
+# Your Fellow BitStars
 ### Milind Sonavane & Sopan Sharma
 
 >Milind & Sopan are the founders of @MakersparkIndia in Pune, India. They are the makers of the gorgeous Gramopaint, an arc art generator powered by littleBits and 3d printed components. We are big fans of this  duo here at littleBits and were excited to get to ask them some questions about their maker superpowers.
