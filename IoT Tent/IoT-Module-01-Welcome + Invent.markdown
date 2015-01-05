@@ -3,6 +3,7 @@
 
 http://littlebits.cc/bits/temperature-sensor-2014
 http://littlebits.cc/projects/candle-killer
+https://www.twilio.com/blog/2014/12/12-hacks-of-christmas-day-7-spread-christmas-cheer-with-littlebits-laravel-and-twilio.html
 
 ## Design Constraints
 1.
