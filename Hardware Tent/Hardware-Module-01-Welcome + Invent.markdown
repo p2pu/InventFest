@@ -1,6 +1,13 @@
 
 # Hardware Module Week 1: 
+ Accessibility hack
  
+ Custom Tool Creation
+ http://www.thingiverse.com/hmdedeur/collections/tools/page:2
+ 
+ Green Hardware
+- rethinking toilets & garbage
+
 
 ## Design Constraints
 1. 
