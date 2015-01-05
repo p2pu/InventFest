@@ -1,7 +1,10 @@
 
 # Hardware Module Week 1: 
  Accessibility hack
- 
+- moving spoon
+- use acceleramotoer for medical inputs
+- think about wearables and what they can tell us
+
  Custom Tool Creation
  http://www.thingiverse.com/hmdedeur/collections/tools/page:2
  
