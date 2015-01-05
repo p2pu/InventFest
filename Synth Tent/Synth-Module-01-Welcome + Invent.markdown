@@ -18,6 +18,9 @@ To get us started, we’ll be playing with a song you already love. What's a tun
 
 3. "littleBits Logic Rhythm circuit" <iframe width="560" height="315" src="//www.youtube.com/embed/EDO4y7yzM3w" frameborder="0" allowfullscreen></iframe>
 
+4. "Playing MIDI Files on littleBits’ Arduino at Heart and Synth Bits"
+http://makezine.com/2015/01/02/playing-midi-files-on-littlebits-arduino-at-heart-and-synth-bits/
+
 ## Your Fellow BitStars
 ### [Ashley Elsdon, Soundlab](http://littlebits.cc/educator-spotlight-ashley-elsdon-soundlab)
 >Which product did you use and what made you decide to choose this?
