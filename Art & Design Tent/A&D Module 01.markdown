@@ -1,15 +1,21 @@
 # Art and Design Module 1: Rep Your Hometown
 
-Welcome to the art + design tent for InventFest. If you are here, you probably want to learn how to connect 3-D printing and littleBits, design funky products that whirrr-and-buzzz and fashion installations that make people go "wow."
+Welcome to the art + design tent for InventFest. If you are here, you probably want to learn how to connect 3-D printing and littleBits, design funky products that whirrr-and-buzzz and fashion installations that make people go "wow." 
 
+![](/https://pbs.twimg.com/media/B5LVuhGIUAEQVid.jpg)
 
+We'll start this weekly Invent with a challenge to create a "bitified" sign for your hometown or city. 
 
-# Module Template
+# Design Constraints
+1. Your sign should have at least one LED/lighted part and one moving part. 
+2. The sign should tell the story of your town in your own way.
+3. Make a short video of your sign in both "on" and "off" mode and say a little bit about how it describes you.
 
-1. Represent your hometown with a sign 
-neon / led
-make hinges
-http://littlebits.cc/projects/littlebits-hue-lighting-controller
+## Inspiration, Examples and Support
+
+### [Hue Lighting Controller](http://littlebits.cc/projects/littlebits-hue-lighting-controller)
+![](/https://lb-community.s3.amazonaws.com/uploads/image/asset/6506/large_filled_IMG_8996.JPG)
+
 Creating Hinges and Moving Parts
 https://www.shapeways.com/blog/archives/141-Creating-hinges-and-moving-parts.html
 build a city of signs and buildings
