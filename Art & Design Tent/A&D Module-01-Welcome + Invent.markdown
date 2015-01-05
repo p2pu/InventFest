@@ -21,6 +21,9 @@ We'll start this weekly Invent with a challenge to create a "bitified" sign for 
 
 ### [Creating 3-D Printed Hinges and Moving Parts](https://www.shapeways.com/blog/archives/141-Creating-hinges-and-moving-parts.html)
 
+### Neon Sequencer Sign
+https://lb-community.s3.amazonaws.com/uploads/image/asset/4451/large_filled_WorldCupProjectPageGIF_v3.gif
+
 ### Tips and Tricks: littleBits Shoes
 <iframe width="400" height="225" src="//www.youtube.com/embed/uF6ZNU-04p4" frameborder="0" allowfullscreen></iframe>
 
@@ -35,6 +38,8 @@ We'll start this weekly Invent with a challenge to create a "bitified" sign for 
 >Inventing joyful devices that let people do more, think more, feel more. We are inspired by art, music, creativity and children at play they believe that keeping other makers in mind while making your own project is the key to inspiring action, and making the party bigger. 
 
 <iframe src="//player.vimeo.com/video/107115913" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+### 
 
 ## Share Your Invent 
 Upload your project to littleBits [Maker Hub](http://littlebits.cc/projects) and post the link below. Make sure in your upload, you model a ["reflective design process"](http://en.wikipedia.org/wiki/Reflective_practice) and include:
