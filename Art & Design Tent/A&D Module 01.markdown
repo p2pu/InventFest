@@ -1,40 +1,34 @@
 # Module Template
-- Each “Tent” is a Category on Discourse
-- Each module is a thread: 
-- Synth Fest Week 1, Synth Fest Week 2
 
-Links curated
+1. Represent your hometown with a sign 
+neon / led
+make hinges
 http://littlebits.cc/projects/littlebits-hue-lighting-controller
+Creating Hinges and Moving Parts
+https://www.shapeways.com/blog/archives/141-Creating-hinges-and-moving-parts.html
+build a city of signs and buildings
 
-Swimming Shark
-http://littlebits.cc/projects/swimming-shark--2
-
-Gramopaint
-http://littlebits.cc/projects/gramopaint
-
-Drawing Bots, Generative Art Machines
+2. DIY Quantified self
+wearables
+reflection pool: guess each other's metrics and report
 http://littlebits.cc/browse-lessons/drawing-bots-generative-art-machines
+Armored Gloves:
+http://www.shapeways.com/model/2005573/internal-frame-for-armored-gloves.html?li=search-results-8&materialId=6
 
-Thinking of You
-http://littlebits.cc/projects/thinking-of-you
+3. Safety First Challege
+bikelight
+bitify a tool so it doesn't injure you
+http://fashion.eyebeam.org/projects/mindrider
+Bitify a Tool:
+http://www.shapeways.com/model/2169823/dial-calipers.html?li=search-results&materialId=99
+
+
+
 
 Shoes 
 <iframe width="400" height="225" src="//www.youtube.com/embed/uF6ZNU-04p4" frameborder="0" allowfullscreen></iframe>
 
-Shapeways Contest
-http://www.shapeways.com/blog/archives/16965-make-your-3d-prints-move-with-the-little-bits-contest.html
 
-3D Files
-http://www.shapeways.com/blog/archives/16965-make-your-3d-prints-move-with-the-little-bits-contest.html/littlebits_modules_shapeways
-
-Creating Hinges and Moving Parts
-https://www.shapeways.com/blog/archives/141-Creating-hinges-and-moving-parts.html
-
-Bitify a Tool:
-http://www.shapeways.com/model/2169823/dial-calipers.html?li=search-results&materialId=99
-
-Armored Gloves:
-http://www.shapeways.com/model/2005573/internal-frame-for-armored-gloves.html?li=search-results-8&materialId=6
 
 # Kickstart the ‘Fest
 ## Inventing in Your Life
