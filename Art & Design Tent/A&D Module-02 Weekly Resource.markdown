@@ -1,6 +1,8 @@
 # Art & Design Module 2: 
-Quantified Self: 
-Public health savior or one-way ticket to neuroticism?
+
+Core questions:
+1. Quantified Self: Public health savior or one-way ticket to neuroticism? What do you think?
+2. What safeguards can we put in place to be mindful of personal data?
 
 **From MIT Technology Review: ["The Measured Life"](http://www.technologyreview.com/featuredstory/424390/the-measured-life/)**
 >PatientsLikeMe, a social-networking site that provides users with tools to track their health status and communicate with other patients, has gathered a wealth of data on its 105,000 members. (The site makes money by anonymizing the data and selling it to pharmaceutical companies and other customers.) In 2008, after a small Italian study published in the Proceedings of the National Academy of Sciences suggested that lithium could delay the progression of ALS, or Lou Gehrig’s disease, a small group of the ALS patients on PatientsLikeMe began taking the drug, and the company rolled out a number of tools to help them track their symptoms, their respiratory capacity, their dosage and blood levels of lithium, and any side effects they observed. Because the patients had collected so much data on themselves before starting the drug, researchers could analyze how their symptoms changed in the 12 months before they began taking it as well studying any changes that came after—something that’s not possible in the typical clinical trial. The company published a study based on its data in April. The drug, unfortunately, was found to have no effect.
