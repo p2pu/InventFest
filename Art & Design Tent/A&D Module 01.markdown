@@ -41,14 +41,6 @@ http://www.shapeways.com/model/2169823/dial-calipers.html?li=search-results&mate
 
 
 
-## Inspiration, Examples and Support
-2-3 example projects curated from
-- littleBits Project page
-- meet the makers
-- youtube channel tutorials
-- tips&tricks
-- Maker hub
-
 ## Your Fellow BitStars
  - Example folks in the community who have made the project
 
@@ -59,6 +51,6 @@ Upload your project to littleBits [Maker Hub](http://littlebits.cc/projects) and
 - List the resources you consulted to help others in the future
 
 Next Steps:
-1. Discuss Module 1 for STEAM
+1. Discuss Module 1 for Art and Design
 2. Group Activity Meetup
-3. Re/hack: Hack Module 1
+3. Community Activity for Module 1 of Art and Design
