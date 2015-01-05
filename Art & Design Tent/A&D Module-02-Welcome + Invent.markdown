@@ -1,5 +1,6 @@
 # Art and Design Module 2: DIY Quantified Self
 
+
 wearables
 reflection pool: guess each other's metrics and report
 http://littlebits.cc/browse-lessons/drawing-bots-generative-art-machines
