@@ -28,7 +28,6 @@ GOOOAAAAAL!!! This World Cup themed sign triggers wirelessly when you hit a butt
 ### Tips and Tricks: littleBits Shoes
 <iframe width="400" height="225" src="//www.youtube.com/embed/uF6ZNU-04p4" frameborder="0" allowfullscreen></iframe>
 
-
 ## Your Fellow BitStars
 ### Milind Sonavane & Sopan Sharma
 
@@ -40,7 +39,9 @@ GOOOAAAAAL!!! This World Cup themed sign triggers wirelessly when you hit a butt
 
 <iframe src="//player.vimeo.com/video/107115913" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-### 
+### [Devincifablab](http://littlebits.cc/users/devincifablab)
+![](/https://lb-community.s3.amazonaws.com/uploads/image/asset/6410/large_filled_pacmanbox.png)
+
 
 ## Share Your Invent 
 Upload your project to littleBits [Maker Hub](http://littlebits.cc/projects) and post the link below. Make sure in your upload, you model a ["reflective design process"](http://en.wikipedia.org/wiki/Reflective_practice) and include:
