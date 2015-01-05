@@ -1,6 +1,5 @@
 # Art and Design Module 2: DIY Quantified Self
 
-
 wearables
 reflection pool: guess each other's metrics and report
 http://littlebits.cc/browse-lessons/drawing-bots-generative-art-machines
@@ -15,16 +14,6 @@ http://www.shapeways.com/model/2005573/internal-frame-for-armored-gloves.html?li
 ## Inspiration, Examples and Support
 
 ### 
-
-
-
-3. Safety First Challege
-bikelight
-bitify a tool so it doesn't injure you
-http://fashion.eyebeam.org/projects/mindrider
-Bitify a Tool:
-http://www.shapeways.com/model/2169823/dial-calipers.html?li=search-results&materialId=99
-
 
 ## Your Fellow BitStars
  - Example folks in the community who have made the project
