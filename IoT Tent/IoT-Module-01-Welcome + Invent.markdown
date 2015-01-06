@@ -1,28 +1,17 @@
 
-# IoT Module Week 1
+# IoT Module Week 1: If these Walls Could Talk!
+Welcome to the Internet of Things tent for InventFest! If you are here, you probably have poked around with the [Smart Home Kit](http://littlebits.cc/kits/smart-home-kit), or at least have a [Cloudbit](http://littlebits.cc/bits/cloudbit) that will allow you to "snap the internet to anything." 
 
-1. Safety First Hack
-- Bikes
-- Heat
-- Roar
+This first Weekly Invent will challenge you to use the kit to Hack your house. We'll provide some design constraints, a few example projects to get you started, and then you'll be on your way. 
 
-2. Rethinking conversation hack
-
-3. Pet Hacks
-
-http://littlebits.cc/bits/temperature-sensor-2014
-http://littlebits.cc/projects/candle-killer
-https://www.twilio.com/blog/2014/12/12-hacks-of-christmas-day-7-spread-christmas-cheer-with-littlebits-laravel-and-twilio.html
-
-## Design Constraints
-1.
-2. 
-3. 
+# Design Constraints
+1. Consider your house from the point-of-view of your pet or an inanimate object. Is your cat bored? Is your Roomba sad? 
+2. Create a project that improves the livelihood of that pet/thing **and** upcycles something in your house. (Think old wallets, floppy disks, plastic bottles, [a plastic bottle](http://littlebits.cc/projects/littlepiggy-bank--3)--have at it!)
 
 ## Inspiration, Examples and Support
 
 ###
-![](/Images/Keytar.png)
+
 
 ###
 
