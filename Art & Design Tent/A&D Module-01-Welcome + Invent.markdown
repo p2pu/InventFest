@@ -14,16 +14,16 @@ We'll start this weekly Invent with a challenge to create a "bitified" sign for 
 # Inspiration, Examples and Support
 
 ### [2015 New Year Flashing Sign](http://littlebits.cc/projects/2015-new-year-flashing-sign)
-![](/https://lb-community.s3.amazonaws.com/uploads/image/asset/6590/large_filled_photo__1_.JPG)
+![](https://lb-community.s3.amazonaws.com/uploads/image/asset/6590/large_filled_photo__1_.JPG)
 
 ### [Hue Lighting Controller](http://littlebits.cc/projects/littlebits-hue-lighting-controller)
-![](/https://lb-community.s3.amazonaws.com/uploads/image/asset/6506/large_filled_IMG_8996.JPG)
+![](https://lb-community.s3.amazonaws.com/uploads/image/asset/6506/large_filled_IMG_8996.JPG)
 
 ### [Creating 3-D Printed Hinges and Moving Parts](https://www.shapeways.com/blog/archives/141-Creating-hinges-and-moving-parts.html)
 
 ### [Neon Sequencer Sign](http://littlebits.cc/projects/animated-image-sequencer)
 GOOOAAAAAL!!! This World Cup themed sign triggers wirelessly when you hit a button on your table. This project is made up of two circuits - one for the button and the other for the sign.
-![](/https://lb-community.s3.amazonaws.com/uploads/image/asset/4451/large_filled_WorldCupProjectPageGIF_v3.gif)
+![](https://lb-community.s3.amazonaws.com/uploads/image/asset/4451/large_filled_WorldCupProjectPageGIF_v3.gif)
 
 ### Tips and Tricks: littleBits Shoes
 <iframe width="400" height="225" src="//www.youtube.com/embed/uF6ZNU-04p4" frameborder="0" allowfullscreen></iframe>
@@ -40,7 +40,7 @@ GOOOAAAAAL!!! This World Cup themed sign triggers wirelessly when you hit a butt
 <iframe src="//player.vimeo.com/video/107115913" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ### [Devincifablab](http://littlebits.cc/users/devincifablab)
-![](/https://lb-community.s3.amazonaws.com/uploads/image/asset/6410/large_filled_pacmanbox.png)
+![](https://lb-community.s3.amazonaws.com/uploads/image/asset/6410/large_filled_pacmanbox.png)
 
 
 ## Share Your Invent 
