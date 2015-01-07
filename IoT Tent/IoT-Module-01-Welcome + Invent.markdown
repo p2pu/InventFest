@@ -43,7 +43,15 @@ In this littleBits project you attach a vibration motor to the head of a tooth b
 [Tips and Tricks: Vibration Motor](http://littlebits.cc/tips-tricks/tips-tricks-vibration-motor)
 
 ## Your Fellow BitStars
-### 
+### Cory Cowgill
+
+![](https://lb-community.s3.amazonaws.com/uploads/user/avatar/medium_1460290_10100930429294335_280431353_n.jpg)
+
+I'm Cory Cowgill, a Technical Architect living in Chicago, IL. I'm a big Chicago Bears fan, enjoy playing Xbox 360, and have an addiction to Apple products as well as internet connectivity.
+
+Check out Cory's Projects:
+- [Couch Logger](http://littlebits.cc/projects/cough-logger)
+- ["Real Life" Salesforce.com Dashboard](http://littlebits.cc/projects/real-life-salesforce-com-dashboard)
 
 ### 
 
