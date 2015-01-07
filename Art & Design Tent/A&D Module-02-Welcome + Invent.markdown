@@ -21,10 +21,10 @@ participants are challenged to invent their own drawing bots.
 <iframe src="//player.vimeo.com/video/61650708" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ### [3D-Printed Armored Gloves](http://www.shapeways.com/model/2005573/internal-frame-for-armored-gloves.html?li=search-results-8&materialId=6)
-![](/http://images1.sw-cdn.net/model/picture/625x465_2005573_3218433_1403759874.jpg)
+![](http://images1.sw-cdn.net/model/picture/625x465_2005573_3218433_1403759874.jpg)
 
 ### [Tips and Tricks: Temperature Sensor](http://littlebits.cc/tips-tricks-temperature-sensor)
-![](/http://media.littlebits.cc/wp-content/uploads/2014/11/closeup_temp_sensor_with_callout-600x375.jpg)
+![](http://media.littlebits.cc/wp-content/uploads/2014/11/closeup_temp_sensor_with_callout-600x375.jpg)
 
 ### [Tips and Tricks: Number+ Module](http://littlebits.cc/tips-tricks-number)
 <iframe width="750" height="422" src="//www.youtube.com/embed/CBSIje21CZQ" frameborder="0" allowfullscreen></iframe>
