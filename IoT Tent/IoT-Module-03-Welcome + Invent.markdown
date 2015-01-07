@@ -7,6 +7,8 @@ published: true
 
 ## Your Weekly Invention: 
 
+Re-thinking conversation
+
 https://www.twilio.com/blog/2014/12/12-hacks-of-christmas-day-7-spread-christmas-cheer-with-littlebits-laravel-and-twilio.html
 
 ## Design Constraints
