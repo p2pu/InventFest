@@ -2,7 +2,7 @@
 
 Welcome to the art + design tent for InventFest. If you are here, you probably want to learn how to connect 3-D printing and littleBits, design funky products that whirrr-and-buzzz and fashion installations that make people go "wow." 
 
-![](/https://pbs.twimg.com/media/B5LVuhGIUAEQVid.jpg)
+![Snap'em Together](https://pbs.twimg.com/media/B5LVuhGIUAEQVid.jpg)
 
 We'll start this weekly Invent with a challenge to create a "bitified" sign for your hometown or city. 
 
