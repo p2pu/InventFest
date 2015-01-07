@@ -26,7 +26,7 @@ This week we're asking you, BitSTARs, to use littleBits to make the world a safe
 >Prismo will allow your family or your colleagues to know in real time if it’s a good time to contact you or not, by a simple light signal. If the indicator is on, you show that you’re busy. If it’s not the case, you show that you’re available.
 
 >Synchronised with Google Calendar, Prismo will automaticaly activate itself according to your meetings planification.
-![](/https://lb-community.s3.amazonaws.com/uploads/image/asset/6403/large_filled_20141211_124824.jpg)
+![](https://lb-community.s3.amazonaws.com/uploads/image/asset/6403/large_filled_20141211_124824.jpg)
 
 ## Your Fellow BitStars
 ### Paige Russell
