@@ -5,6 +5,14 @@
 - use acceleramotoer for medical inputs
 - think about wearables and what they can tell us
 
+http://littlebits.cc/projects/future-of-accessible-cities-window-display
+The "Future of Accessible Cities" is a window display at Adaptive Design Association store front window located in New York City 313 W. 36th Street. People passing by can interact with a "flying" wheelchair via SMS. The future city is made of cardboard, littlebits, arduino and a motor. We want to encourage creative thinking about the future of accessibility in cities and society.
+Credits:
+
+Jenny Chowdhury, John Schimmel, Christie Leece
+
+DIYAbility & Adaptive Design Association
+
  Custom Tool Creation
  http://www.thingiverse.com/hmdedeur/collections/tools/page:2
  
@@ -25,7 +33,7 @@
 
 ## Your Fellow BitStars
 ### 
-
+http://littlebits.cc/makers/madison-maxey
 
 ### 
 
