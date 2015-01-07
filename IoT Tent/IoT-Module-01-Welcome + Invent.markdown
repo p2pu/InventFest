@@ -14,9 +14,10 @@ This first Weekly Invent will challenge you to use the kit to hack your house. W
 
 <iframe width="455" height="255" src="//www.youtube.com/embed/pnMcxMB_fCk" frameborder="0" allowfullscreen></iframe>
 
+### Make Your Bits Talk to Other Things
+IFFT (a service that stands for "if this, then that") offers recipes that combine your Cloudbit, an object and you. 
 
-### IFFT Cloudbit + Text Message
-
+Check out ["Tips and Tricks: Cloud Module"](http://littlebits.cc/tips-tricks/tips-tricks-cloud-module)
 
 ### Friday’s Tips and Tricks: What household item enhances any lighting project?
 
