@@ -17,6 +17,8 @@ published: true
 ## Inspiration, Examples and Support
 ### 
 
+http://littlebits.cc/bits/temperature-sensor-2014
+http://littlebits.cc/projects/candle-killer
 
 ### 
 
