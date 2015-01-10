@@ -1,19 +1,15 @@
-
-# Synth Module 2: Dance Party
+# IoT Module 2 Community Activity: Safety Hackathon
 
 ## Core Questions
-
-- If you could revise this the "Invented Boombox" for a group, what would that look like?
-- Post your proposed activity in Discourse below. 
+- How would you “hack” the "If these Walls Could Talk" activity to improve it?
+- If you could revise this activity for a group, what would that look like?
+- Post your activity in Discourse below. 
 - We've included a community activity you can pick up and use for your chapter or local group. 
 
-## Community Activity: Dance Party
-
-1. After asking your local community to make their Boombox, bring them all together on an evening or weekend day to show off their instrument. 
-2. Once everyone is settled (and booted up), gather all the participants in a circle. 
-3. Each person will play their Invented Boombox for a minute or two, and prompt folks to jump in and groove to that particular tune. 
-4. After 2 minutes, the next person will jump in with their boombox.
-5. Take a video of the event and post it below.
+# Community Activity: Safety Hackathon
+1. In your community, reach out to a local law enforcement officer. Who is the public-facing official? Invite them to come give a short presentation on local crime matters in your community, and potential solutions your crew could develop. You may also want to reach out to your local ACLU, Open Data Organization, or local non-profits for more ideas.
+2. In pairs, develop a product using littleBits that could potentially solve your community's safety issue. 
+3. After 2-3 hours of prototyping, share out to the group and post to the littleBits project page. 
 
  
 
