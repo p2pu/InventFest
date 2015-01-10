@@ -5,7 +5,7 @@ published: true
 
 # Iot Module Week 2: Safety First! Hack
 
-littleBits are more than just toys; they are powerful prototyping tools that we can use to solve bigger problems: inequity, neighborhood safety, tools that prevent accidents and the like. 
+littleBits are more than just toys; they are prototyping power we can use to solve bigger problems: inequity, neighborhood safety, tools that prevent accidents and the like. 
 
 This week's hack will ask you to use your "extra-sensory perception" (:p) to make something in your life safer.  
 
