@@ -12,7 +12,6 @@ This week's hack will ask you to use your "extra-sensory perception" (:p) to mak
 ### Design Constraints
 1. Your product should use a sensory input, your cloudBit and an IFFT recipe.
 2. Describe the inspiration for the project and the problem you are trying to solve.
-3. Give your product a snappy, ["As Seen on TV"](http://www.asseenontv.com/) product name. 
 
 ## Inspiration, Examples and Support
 
