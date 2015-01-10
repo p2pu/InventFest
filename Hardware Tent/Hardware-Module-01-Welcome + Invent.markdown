@@ -11,6 +11,11 @@ Credits:
 
 Jenny Chowdhury, John Schimmel, Christie Leece
 
+# John Wilbanks: Let's pool our medical data
+<iframe width="640" height="390" src="//www.youtube.com/embed/WbuIl6phdco" frameborder="0" allowfullscreen></iframe>
+
+<iframe src="http://www.slideshare.net/wilbanks/slideshelf" width="615px" height="470px" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:none;" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe>
+
 DIYAbility & Adaptive Design Association
 
  Custom Tool Creation
