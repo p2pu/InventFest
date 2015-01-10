@@ -43,6 +43,13 @@ The company also has developed a phone app that will notify users of crime patte
 
 http://articles.philly.com/2014-09-15/business/53908548_1_phone-app-roar-chief-technology-officer
 
+### Texting Increases Human Trafficking Victims’ Access to Help
+“BeFree” text shortcode instantly connects victims to services from the National Human Trafficking Resource Center 
+
+Washington, DC (March 28, 2013) – Human trafficking victims across the country can now send texts to get help and escape modern-day slavery, Polaris Project and Thorn: Digital Defenders of Children announced today. Victims and concerned citizens can now send text messages to “BeFree” (233733) and instantly connect with the National Human Trafficking Resource Center (NHTRC) hotline (1-888-3737-888), operated by Polaris Project.
+
+http://www.polarisproject.org/media-center/news-and-press/press-releases/757-texting-increases-human-trafficking-victims-access-to-help
+
 
 ## Your Fellow BitStars
 ### Paige Russell
