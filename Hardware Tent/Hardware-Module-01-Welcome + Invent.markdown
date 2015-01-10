@@ -11,10 +11,10 @@ Credits:
 
 Jenny Chowdhury, John Schimmel, Christie Leece
 
-# John Wilbanks: Let's pool our medical data
-<iframe width="640" height="390" src="//www.youtube.com/embed/WbuIl6phdco" frameborder="0" allowfullscreen></iframe>
+# John Wilbanks: Using Patient Inputs in Phones for Remote Parkinson's Care
 
-<iframe src="http://www.slideshare.net/wilbanks/slideshelf" width="615px" height="470px" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:none;" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/41860148" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/wilbanks/opened-2014-keynote" title="OpenEd 2014 Keynote" target="_blank">OpenEd 2014 Keynote</a> </strong> from <strong><a href="//www.slideshare.net/wilbanks" target="_blank">john wilbanks</a></strong> </div>
+
 
 DIYAbility & Adaptive Design Association
 
