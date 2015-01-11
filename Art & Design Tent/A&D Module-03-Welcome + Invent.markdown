@@ -1,15 +1,7 @@
-# Art and Design Module 3: Safety First Challenge
-
-This week we're asking you, BitSTARs, to use littleBits to make the world a safer (and more bitified!) place. For your Weekly Invent, ask yourself the following questions:
-
-- What tools can we design to prevent accidents? 
-- What sensory data can we use to make us safer and happier?
-- Can we create a product that is less pointy/sharp/noisy/slipper than what we have now?
+# Art and Design Module 3: Interactive Sculpture
 
 # Design Constraints
-1. Your product should use a sensory input and a [parallel circuit](https://learn.sparkfun.com/tutorials/series-and-parallel-circuits).
-2. Describe the inspiration for the project and the problem you are trying to solve.
-3. Give your product a snappy, ["As Seen on TV"](http://www.asseenontv.com/) product name. 
+1. 
 
 ## Inspiration, Examples and Support
 
@@ -29,11 +21,32 @@ This week we're asking you, BitSTARs, to use littleBits to make the world a safe
 ![](https://lb-community.s3.amazonaws.com/uploads/image/asset/6403/large_filled_20141211_124824.jpg)
 
 ## Your Fellow BitStars
-### Paige Russell
->Paige Russell @paigeandmodern is an artist working at the Instructables Design Studio. She is also the maker of the Scent-imental Notification System which involves the nose in this whole tech revolution by releasing an assigned scent whenever you’re tagged on Instagram. We had the pleasure of talking to Paige an learning a little bit more about her practice and inspiration.
+### Milind Sonavane & Sopan Sharma
 
-<iframe width="640" height="360" src="//www.youtube.com/embed/X0XkHytdmMI" frameborder="0" allowfullscreen></iframe>
-[Meet the Makers: Paige Russell](http://littlebits.cc/makers/paige-russell)
+<iframe src="//player.vimeo.com/video/107115913" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+Milind & Sopan are the founders of [@MakersparkIndia](https://twitter.com/MakerSparkIndia) in Pune, India. They are the makers of the gorgeous [Gramopaint](http://littlebits.cc/projects/gramopaint), an arc art generator powered by littleBits and 3d printed components. We are big fans of this  duo here at littleBits and were excited to get to ask them some questions about their maker superpowers.
+
+**Tell us a *littlebit* about yourselves…**
+Milind: I am an applied arts graduate, and a true maker at heart. I enjoy spending my nights cooking up maker ideas, and my days tinkering with them. My 20 month daughter Meera is my inspiration. And smarter than me.
+
+Sopan: I graduated as an engineer, but became a motorcycle journalist immediately after. Over the years I have moved from being an entrepreneur to an advertiser to a filmmaker, a musician, and even woodworking; I have no clue what to do anymore. Milind has added to my confusion by offering me a founder spot at Makerspark. God help his soul.
+
+**What’s your maker superpower?**
+Inventing joyful devices that let people do more, think more, feel more. We are inspired by art, music, creativity and children at play they believe that keeping other makers in mind while making your own project is the key to inspiring action, and making the party bigger. 
+
+**What’s your dreambit?**
+We love to take devices powered by littleBits into the countryside. Our dream bit would be a peltier module (TEG thermoelectric generator) power supply unit that we can use to power our littleBits creations in the wild. Imagine using the GramoPaint beside a lake!
+
+http://littlebits.cc/makers/milind-sonavane-sopan-sharma-makers-of-the-gramopaint
+
+### Bare Conductive
+
+<iframe width="652" height="366" src="//www.youtube.com/embed/sIPR735QbaY" frameborder="0" allowfullscreen></iframe>
+
+Meet Matt Johnson, one of the founders of Bare Conductive, makers of an electrically conductive paint as well as the studio behind our bitLab touch sensor module.  Passionate about developing accessible platforms for people to get creative with technology, Matt is a bit of a designer and a bit of an engineer and most comfortable being split between the two. He is also a littleBits maker extraordinaire if we may say so ourselves. We were lucky enough to get to ask him some questions and delve more into his story.
+
+http://littlebits.cc/makers/matt-johnson-from-bare-conductive
 
 ## Share Your Invent 
 Upload your project to littleBits [Maker Hub](http://littlebits.cc/projects) and post the link below. Make sure in your upload, you model a ["reflective design process"](http://en.wikipedia.org/wiki/Reflective_practice) and include:
