@@ -21,6 +21,12 @@ This week's hack will ask you to use your "extra-sensory perception" (:p) to mak
 
 >MindRider, the brain-reading bike helmet system, generates new kinds of health data and health sense-making at the individual and regional scale. Every MindRider helmet employs a distinctive combination of two head-based wearable technologies, the bike helmet and the EEG (electroencephalography) sensor, giving users new insight into their mental experiences as they ride.
 
+### Use littleBits to turn a work of art into a modern home security device
+
+<iframe width="653" height="366" src="//www.youtube.com/embed/eT_dZLUdAII" frameborder="0" allowfullscreen></iframe>
+
+http://littlebits.cc/projects/undercover-art
+
 ### The Candle Killer
 <iframe width="652" height="366" src="//www.youtube.com/embed/oy5gpF13jMw" frameborder="0" allowfullscreen></iframe>
 
