@@ -7,7 +7,6 @@
 - Post your activity in Discourse below. 
 
 ## Community Activity: 
-
 1.  
 2. 
 3. 
