@@ -5,11 +5,6 @@
 
 ## Inspiration, Examples and Support
 
-### The Mind-Reader Helmet
-<iframe src="//player.vimeo.com/video/74572651" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
->MindRider, the brain-reading bike helmet system, generates new kinds of health data and health sense-making at the individual and regional scale. Every MindRider helmet employs a distinctive combination of two head-based wearable technologies, the bike helmet and the EEG (electroencephalography) sensor, giving users new insight into their mental experiences as they ride.
-
 
 ### [Prismo](http://littlebits.cc/projects/prismo)
 
