@@ -1,5 +1,5 @@
 
-# IoT Module Week 1: If these Walls Could Talk!
+# IoT Week 1: If these Walls Could Talk!
 Welcome to the Internet of Things tent for InventFest! If you are here, you probably have poked around with the [Smart Home Kit](http://littlebits.cc/kits/smart-home-kit), or at least have a [Cloudbit](http://littlebits.cc/bits/cloudbit) that will allow you to "snap the internet to anything." 
 
 This first, your design challenge will be to use the kit to hack your house. We'll provide some design constraints, a few example projects to get you started, and then you'll be on your way. 
