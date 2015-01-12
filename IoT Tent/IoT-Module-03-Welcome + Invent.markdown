@@ -3,7 +3,7 @@ title: Intro
 published: true
 ---
 
-# IoT Module Week 3: Rethinking the Dinner Party
+# IoT Week 3: Rethinking the Dinner Party
 
 Now that we can express ourselves in measured text messages, Tweets, emoji and Instagram photos, how do we define "conversation"? What do we value about dialogue? When you've had fruitful human-human interactions in the internet, what elements did those conversations have?
 
