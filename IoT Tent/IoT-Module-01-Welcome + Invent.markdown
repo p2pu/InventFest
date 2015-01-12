@@ -70,9 +70,9 @@ Upload your project to littleBits [Maker Hub](http://littlebits.cc/projects) and
 - List the resources you consulted to help others in the future
 
 # Next Steps:
-1. Weekly Resource
-2. Community Activity
-3. Meetup
+1. Weekly Hangout
+2. Team Up with Others
+3. Share & Discuss
 
 
 
