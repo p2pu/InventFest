@@ -8,7 +8,7 @@ This first, your design challenge will be to use the kit to hack your house. We'
 1. Consider your house from the point-of-view of your pet or an inanimate object. Is your cat bored? Is your Roomba sad? 
 2. Create a project that improves the livelihood of that pet/thing **and** upcycles something in your house. (Think old wallets, floppy disks, plastic bottles, [a plastic bottle](http://littlebits.cc/projects/littlepiggy-bank--3)--have at it!)
 
-## Inspiration, Examples and Support
+# Inspiration, Examples and Support
 
 Check out all the stellar projects that use the [Smart Home Kit on MakerHub](http://littlebits.cc/projects/smart_home_kit/featured?order_by=published_at#browse).
 
@@ -43,7 +43,7 @@ IFFT (a service that stands for "if this, then that") offers recipes that combin
 Check out ["Tips and Tricks: Cloud Module"](http://littlebits.cc/tips-tricks/tips-tricks-cloud-module) and ["Tips and Tricks: IFFT"](http://littlebits.cc/tips-tricks/tips-tricks-the-cloudbit-ifttt).
 
 
-## Your Fellow BitStars
+# Your Fellow BitStars
 1. Cory Cowgill
 
 ![](https://lb-community.s3.amazonaws.com/uploads/user/avatar/medium_1460290_10100930429294335_280431353_n.jpg)
