@@ -54,6 +54,8 @@ http://littlebits.cc/projects/geof-gumball-machine
 ## Your Fellow BitStars
 [makerspark](http://littlebits.cc/makers/milind-sonavane-sopan-sharma-makers-of-the-gramopaint), Pune, India
 
+![](/http://media.littlebits.cc/wp-content/uploads/2014/11/makersparkindia1-1.jpg)
+
 <iframe src="//player.vimeo.com/video/107115913" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 # Share Your Project 
