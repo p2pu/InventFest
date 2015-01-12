@@ -42,7 +42,6 @@ IFFT (a service that stands for "if this, then that") offers recipes that combin
 
 Check out ["Tips and Tricks: Cloud Module"](http://littlebits.cc/tips-tricks/tips-tricks-cloud-module) and ["Tips and Tricks: IFFT"](http://littlebits.cc/tips-tricks/tips-tricks-the-cloudbit-ifttt).
 
-
 # Your Fellow BitStars
 1. Cory Cowgill
 
