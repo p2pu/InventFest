@@ -31,18 +31,7 @@ IFFT (a service that stands for "if this, then that") offers recipes that combin
 
 Check out ["Tips and Tricks: Cloud Module"](http://littlebits.cc/tips-tricks/tips-tricks-cloud-module) and ["Tips and Tricks: IFFT"](http://littlebits.cc/tips-tricks/tips-tricks-the-cloudbit-ifttt).
 
-### Future of Accessible Cities Window Display
-![](https://lb-community.s3.amazonaws.com/uploads/image/asset/4675/large_filled_Future_of_Accessible_Cities_window_display_-_YouTube.png)
-
-After playing with our littlebits cloud module for a “littleBit”, it became clear that our favorite thing to do with it was to activate it with an SMS (via IFTTT) and then have the cloud module turn on the DC motor module. We thought it would be fun to use this setup in the store front window of our workshop and have passersby use their phones to activate a motor in a window display. 
-
-Our original littleBits set up was: power module -> cloud module -> DC motor module 
-
-Our IFTTT recipe was: if SMS -> then cloud module
-
-Read more of the ["Future of Accessible Cities Window Display"](http://littlebits.cc/projects/future-of-accessible-cities-window-display).
-
-### Friday’s Tips and Tricks: What household item enhances any lighting project?
+### Use Household Items to Enhance a Lighting Project
 
 German playwright Bertolt Brecht said that the essence of art is to see things differently, even in your daily life. Through the eye of an artist, any common item in your house can be a source of inspiration for your project. Let’s find out which household items can help you enhance your light based projects.
 
@@ -53,7 +42,7 @@ German playwright Bertolt Brecht said that the essence of art is to see things d
 
 [Read more Tips and Tricks](http://littlebits.cc/fridays-tips-and-tricks-what-household-item-enhances-any-lighting-project-well-show-you)
 
-### Bristle Bot
+### Cute Bonus: Bristle Bot
 
 In this littleBits project you attach a vibration motor to the head of a tooth brush to create your own robot! By adjusting the dimmer, you can control the movement of the little bot making him travel slowly and smoothly or quickly and in every direction!
 
