@@ -66,7 +66,7 @@ http://www.polarisproject.org/media-center/news-and-press/press-releases/757-tex
 [Meet the Makers: Paige Russell](http://littlebits.cc/makers/paige-russell)
 
 
-## Share Your Invent 
+## Share Your Project 
 Upload your project to littleBits [Maker Hub](http://littlebits.cc/projects) and post the link below. Make sure in your upload, you mention
 - which bit you explored in detail in this Invent
 - where you might take this project next
