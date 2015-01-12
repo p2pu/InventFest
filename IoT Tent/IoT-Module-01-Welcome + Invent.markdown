@@ -26,24 +26,7 @@ http://littlebits.cc/projects/coffee-control
 <iframe width="652" height="366" src="//www.youtube.com/embed/e9Q8mvW3dC8" frameborder="0" allowfullscreen></iframe>
 http://littlebits.cc/projects/toilet-paper-inventory
 
-### Learn How to Use IFFT
-IFFT (a service that stands for "if this, then that") offers recipes that combine your Cloudbit, an object and you. 
-
-Check out ["Tips and Tricks: Cloud Module"](http://littlebits.cc/tips-tricks/tips-tricks-cloud-module) and ["Tips and Tricks: IFFT"](http://littlebits.cc/tips-tricks/tips-tricks-the-cloudbit-ifttt).
-
-### Use Household Items to Enhance a Lighting Project
-
-German playwright Bertolt Brecht said that the essence of art is to see things differently, even in your daily life. Through the eye of an artist, any common item in your house can be a source of inspiration for your project. Let’s find out which household items can help you enhance your light based projects.
-
-**Disposible Cup**
-![](http://media.littlebits.cc/wp-content/uploads/2013/10/large_filled_photo_5__1_.jpg)
-
-![](http://media.littlebits.cc/wp-content/uploads/2013/10/large_IMG_8430_DeskLamp5LR.jpg)
-
-[Read more Tips and Tricks](http://littlebits.cc/fridays-tips-and-tricks-what-household-item-enhances-any-lighting-project-well-show-you)
-
-### Cute Bonus: Bristle Bot
-
+4. Cute Bonus: Bristle Bot
 In this littleBits project you attach a vibration motor to the head of a tooth brush to create your own robot! By adjusting the dimmer, you can control the movement of the little bot making him travel slowly and smoothly or quickly and in every direction!
 
 ![](http://media.littlebits.cc/wp-content/uploads/2013/05/CloseUp_6.jpg)
@@ -53,6 +36,12 @@ In this littleBits project you attach a vibration motor to the head of a tooth b
 <iframe width="640" height="390" src="//www.youtube.com/embed/TMMR8JUtBNI" frameborder="0" allowfullscreen></iframe>
 
 [Tips and Tricks: Vibration Motor](http://littlebits.cc/tips-tricks/tips-tricks-vibration-motor)
+
+### Learn How to Use IFFT
+IFFT (a service that stands for "if this, then that") offers recipes that combine your Cloudbit, an object and you. 
+
+Check out ["Tips and Tricks: Cloud Module"](http://littlebits.cc/tips-tricks/tips-tricks-cloud-module) and ["Tips and Tricks: IFFT"](http://littlebits.cc/tips-tricks/tips-tricks-the-cloudbit-ifttt).
+
 
 ## Your Fellow BitStars
 ### Cory Cowgill
