@@ -56,13 +56,13 @@ http://littlebits.cc/projects/geof-gumball-machine
 
 <iframe src="//player.vimeo.com/video/107115913" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-# Share Your Invent 
+# Share Your Project 
 Upload your project to littleBits [Maker Hub](http://littlebits.cc/projects) and post the link below. Make sure in your upload, you mention
 - which bit you explored in detail in this Invent
 - where you might take this project next
 - a video of your project working (and booming)
 
-## Next Steps:
-- Discuss Module 3
-- Re/hack Module 3
-- Meetup Module 3
+# Next Steps:
+1. Weekly Hangout
+2. Team Up with Others
+3. Share & Discuss
