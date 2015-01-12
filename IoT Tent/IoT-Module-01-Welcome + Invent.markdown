@@ -44,21 +44,24 @@ Check out ["Tips and Tricks: Cloud Module"](http://littlebits.cc/tips-tricks/tip
 
 
 ## Your Fellow BitStars
-### Cory Cowgill
+1. Cory Cowgill
 
 ![](https://lb-community.s3.amazonaws.com/uploads/user/avatar/medium_1460290_10100930429294335_280431353_n.jpg)
 
 I'm Cory Cowgill, a Technical Architect living in Chicago, IL. I'm a big Chicago Bears fan, enjoy playing Xbox 360, and have an addiction to Apple products as well as internet connectivity.
 
 Check out Cory's Projects:
-- [Couch Logger](http://littlebits.cc/projects/cough-logger)
+- [Cough Logger](http://littlebits.cc/projects/cough-logger)
 - ["Real Life" Salesforce.com Dashboard](http://littlebits.cc/projects/real-life-salesforce-com-dashboard)
 
-### Andy Reed, MakerDad
+2. Andy Reed, MakerDad
 
 Andy has been an inspiration for our community with his truly unique story. After a career in finance and high tech, Andy Reed decided to move back to Sonoma, California, with his family and purchase a six-acre farm.  A true problem solver and maker at heart, Andy used littleBits to deal with a unique situation: he has a farm full of chickens, but he never knew whether they have the right amount of food. To find out, he or his daughters would have to walk all the way to the coop and inspect the feed. Watch the video above to see how Andy and his family rigged up a clever enclosure using the cloudBit to monitor his chicken feed from across the yard or from across the world!
 
 <iframe width="652" height="366" src="//www.youtube.com/embed/KKQZgl8pSis" frameborder="0" allowfullscreen></iframe>
+
+3. [DoguIn](http://littlebits.cc/users/littlebits_user_23278) Seoul, Korea 
+
 
 ## Share Your Invent 
 Upload your project to littleBits [Maker Hub](http://littlebits.cc/projects) and post the link below. Make sure in your upload, you model a ["reflective design process"](http://en.wikipedia.org/wiki/Reflective_practice) and include:
