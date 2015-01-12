@@ -15,6 +15,16 @@ Jenny Chowdhury, John Schimmel, Christie Leece
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/41860148" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/wilbanks/opened-2014-keynote" title="OpenEd 2014 Keynote" target="_blank">OpenEd 2014 Keynote</a> </strong> from <strong><a href="//www.slideshare.net/wilbanks" target="_blank">john wilbanks</a></strong> </div>
 
+### Hack Your House: Make it Accessible
+![](https://lb-community.s3.amazonaws.com/uploads/image/asset/4675/large_filled_Future_of_Accessible_Cities_window_display_-_YouTube.png)
+
+After playing with our littlebits cloud module for a “littleBit”, it became clear that our favorite thing to do with it was to activate it with an SMS (via IFTTT) and then have the cloud module turn on the DC motor module. We thought it would be fun to use this setup in the store front window of our workshop and have passersby use their phones to activate a motor in a window display. 
+
+Our original littleBits set up was: power module -> cloud module -> DC motor module 
+
+Our IFTTT recipe was: if SMS -> then cloud module
+
+Read more of the ["Future of Accessible Cities Window Display"](http://littlebits.cc/projects/future-of-accessible-cities-window-display).
 
 DIYAbility & Adaptive Design Association
 
@@ -23,6 +33,7 @@ DIYAbility & Adaptive Design Association
  
  Green Hardware
 - rethinking toilets & garbage
+
 
 
 ## Design Constraints
