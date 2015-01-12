@@ -28,11 +28,10 @@ Read more of the ["Future of Accessible Cities Window Display"](http://littlebit
 
 DIYAbility & Adaptive Design Association
 
- Custom Tool Creation
+# How to Use BitLab
  http://www.thingiverse.com/hmdedeur/collections/tools/page:2
  
- Green Hardware
-- rethinking toilets & garbage
+# Wearables
 
 
 
