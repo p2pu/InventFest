@@ -18,15 +18,15 @@ This weekly invent will ask you to brainstorm what you value about conversation,
 
 ## Inspiration, Examples and Support
 
-### Turkey Table Timer
-
+### MakerHub Favorites
+1. Turkey Table Timer
 ![](https://lb-community.s3.amazonaws.com/uploads/image/asset/2929/large_filled_IMG_8989.gif)
 
 It’s dinnertime and you are putting finishing touches on the meal! The Turkey Table Timer helps you make sure your guests sit down the minute the food is ready, rather than you having to round them up. Just set the timeout when you are almost done and the Turkey will beckon your guests to come enjoy the feast by shaking its servo tail, flashing an rgb LED and buzzing to a pulse.
 
 http://littlebits.cc/projects/turkey-table-timer
 
-### The Punisher
+2. The Punisher
 ![](https://lb-community.s3.amazonaws.com/uploads/image/asset/6059/large_filled_main_image.jpg)
 The Punisher is a device to encourage focus and concentration, with an incentive to keep your hands off your phone - when the device senses your phone has been removed from the platform, it sends a message to IFTTT to post an embarrassing status message on your Facebook account.
 
@@ -34,13 +34,13 @@ The Punisher is a device to encourage focus and concentration, with an incentive
 
 http://littlebits.cc/projects/the-punisher
 
-### 12 Hacks of Christmas – Day 7: Spread Christmas Cheer With littleBits, Laravel and Twilio
+3. 12 Hacks of Christmas – Day 7: Spread Christmas Cheer With littleBits, Laravel and Twilio
 My mom’s favorite Christmas song is “I’ll be home for Christmas” which means I’m in major trouble since I won’t be making the trip to KC to visit her this year. I imagine many of you, like me, may not be able to spend the holidays with your families. I wanted to build a hack that helps people feel connected to the ones they love no matter how many miles separate them. My creation is a hardware device that will play a clip of a Christmas song whenever someone sends a text to a Twilio number. I can share this number with my family, they can text whenever they want and I’ll have a festive way of knowing they’re thinking of me. Check out this video to see it in action:
 <iframe width="560" height="315" src="//www.youtube.com/embed/F8nMt8-a5YQ" frameborder="0" allowfullscreen></iframe>
 
 https://www.twilio.com/blog/2014/12/12-hacks-of-christmas-day-7-spread-christmas-cheer-with-littlebits-laravel-and-twilio.html
 
-## Gumball Machine
+4. Gumball Machine
 
 ![](https://lb-community.s3.amazonaws.com/uploads/image/asset/4557/large_filled_calvin_gumball.jpg)
 
@@ -48,6 +48,8 @@ This awesome Gumball Machine is dedicated to Geof Lipman, Engineering Team Lead 
 Be a Maker! 
 
 http://littlebits.cc/projects/geof-gumball-machine
+
+5. [ButterBot](http://littlebits.cc/projects/butterbot)
 
 ## Your Fellow BitStars
 ###Technology Will Save Us
