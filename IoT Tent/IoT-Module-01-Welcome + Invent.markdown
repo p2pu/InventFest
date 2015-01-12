@@ -26,10 +26,10 @@ http://littlebits.cc/projects/coffee-control
 <iframe width="652" height="366" src="//www.youtube.com/embed/e9Q8mvW3dC8" frameborder="0" allowfullscreen></iframe>
 http://littlebits.cc/projects/toilet-paper-inventory
 
-### Make Your Bits Talk to Other Things
+### Learn How to Use IFFT
 IFFT (a service that stands for "if this, then that") offers recipes that combine your Cloudbit, an object and you. 
 
-Check out ["Tips and Tricks: Cloud Module"](http://littlebits.cc/tips-tricks/tips-tricks-cloud-module)
+Check out ["Tips and Tricks: Cloud Module"](http://littlebits.cc/tips-tricks/tips-tricks-cloud-module) and ["Tips and Tricks: IFFT"](http://littlebits.cc/tips-tricks/tips-tricks-the-cloudbit-ifttt).
 
 ### Future of Accessible Cities Window Display
 ![](https://lb-community.s3.amazonaws.com/uploads/image/asset/4675/large_filled_Future_of_Accessible_Cities_window_display_-_YouTube.png)
