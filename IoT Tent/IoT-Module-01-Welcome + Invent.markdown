@@ -60,7 +60,7 @@ Andy has been an inspiration for our community with his truly unique story. Afte
 <iframe width="652" height="366" src="//www.youtube.com/embed/KKQZgl8pSis" frameborder="0" allowfullscreen></iframe>
 
 3. [DoguIn](http://littlebits.cc/users/littlebits_user_23278) Seoul, Korea 
-4. [lmsbush](http://littlebits.cc/users/lmsbush)
+4. [lmsbush](http://littlebits.cc/users/lmsbush) Atlanta, GA
 
 
 ## Share Your Invent 
@@ -69,7 +69,7 @@ Upload your project to littleBits [Maker Hub](http://littlebits.cc/projects) and
 - Reflect on what did you do 1st, 2nd and 3rd
 - List the resources you consulted to help others in the future
 
-Next Steps:
+# Next Steps:
 1. Weekly Resource
 2. Community Activity
 3. Meetup
