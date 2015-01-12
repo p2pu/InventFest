@@ -52,18 +52,11 @@ http://littlebits.cc/projects/geof-gumball-machine
 5. [ButterBot](http://littlebits.cc/projects/butterbot)
 
 ## Your Fellow BitStars
-###Technology Will Save Us
-![](https://www.flickr.com/photos/115806934@N05/12207050105/in/set-72157640288309715)
+[makerspark](http://littlebits.cc/makers/milind-sonavane-sopan-sharma-makers-of-the-gramopaint), Pune, India
 
-Technology Will Save Us is a haberdashery for technology and education. We design, manufacture and sell DIY technology Kits and run workshops to help people become makers and creators of technology, not just users. All of our kits are vehicles for education that teach a variety of skills around technology and making.
+<iframe src="//player.vimeo.com/video/107115913" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-![](https://lb-community.s3.amazonaws.com/uploads/lesson/image/52/large_littleBits_poster.jpg)
-
-Check out Technology Will Save Us's Projects:
-- [News Reporting Helicopter](http://littlebits.cc/projects/news-reporting-helicopter)
-- [Motion Sensor Monster](http://littlebits.cc/projects/motion-sensor-monster)
-
-## Share Your Invent 
+# Share Your Invent 
 Upload your project to littleBits [Maker Hub](http://littlebits.cc/projects) and post the link below. Make sure in your upload, you mention
 - which bit you explored in detail in this Invent
 - where you might take this project next
