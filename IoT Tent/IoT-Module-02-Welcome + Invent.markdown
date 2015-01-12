@@ -16,23 +16,19 @@ This week's hack will ask you to use your "extra-sensory perception" (:p) to mak
 
 ## Inspiration, Examples and Support
 
-### The Mind-Reader Helmet
-<iframe src="//player.vimeo.com/video/74572651" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
->MindRider, the brain-reading bike helmet system, generates new kinds of health data and health sense-making at the individual and regional scale. Every MindRider helmet employs a distinctive combination of two head-based wearable technologies, the bike helmet and the EEG (electroencephalography) sensor, giving users new insight into their mental experiences as they ride.
-
-### Use littleBits to turn a work of art into a modern home security device
+### MakerHub Favorites (how would you make these projects *Smart*?)
+1. Use littleBits to turn a work of art into a modern home security device
 
 <iframe width="653" height="366" src="//www.youtube.com/embed/eT_dZLUdAII" frameborder="0" allowfullscreen></iframe>
 
 http://littlebits.cc/projects/undercover-art
 
-### The Candle Killer
+2. The Candle Killer
 <iframe width="652" height="366" src="//www.youtube.com/embed/oy5gpF13jMw" frameborder="0" allowfullscreen></iframe>
 
 http://littlebits.cc/projects/candle-killer
 
-### Perfect Safe
+3. Perfect Safe
 ![](https://lb-community.s3.amazonaws.com/uploads/image/asset/5628/large_filled_trezor1.JPG)
 
 Do you dream about safe which holds securely all your gems? Just imagine it — strong case, big numbered wheel on door and secret passcode that nobody knows (except you naturally). You don't need travel to New York and register at JP Morgan's Vault on Manhattan. Just sit in you room and make you own safe! 
@@ -41,6 +37,7 @@ Perfect safe is built from Arduino module which take care about passcode set thr
 
 http://littlebits.cc/projects/perfect-safe
 
+# Other Ideas
 ### ROAR: Wearable Technology for Women's Safety
 
 Roar will attempt to do that with wearable technology no bigger than a watch face. When activated, it will emit a loud alarm and flashing lights. Interacting with the wearer's phone via a Bluetooth chip, it also will call 911 and send a text alert of the person's whereabouts to designated contacts.
@@ -56,6 +53,10 @@ Washington, DC (March 28, 2013) – Human trafficking victims across the country
 
 http://www.polarisproject.org/media-center/news-and-press/press-releases/757-texting-increases-human-trafficking-victims-access-to-help
 
+### The Mind-Reader Helmet
+<iframe src="//player.vimeo.com/video/74572651" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+>MindRider, the brain-reading bike helmet system, generates new kinds of health data and health sense-making at the individual and regional scale. Every MindRider helmet employs a distinctive combination of two head-based wearable technologies, the bike helmet and the EEG (electroencephalography) sensor, giving users new insight into their mental experiences as they ride.
 
 ## Your Fellow BitStars
 ### Paige Russell
@@ -71,7 +72,7 @@ Upload your project to littleBits [Maker Hub](http://littlebits.cc/projects) and
 - where you might take this project next
 - a video of your project working (and booming)
 
-## Next Steps:
-- Discuss Module 2
-- Re/hack Module 2
-- Meetup Module 2
+# Next Steps:
+1. Weekly Hangout
+2. Team Up with Others
+3. Share & Discuss
