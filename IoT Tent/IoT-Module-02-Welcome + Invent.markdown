@@ -3,7 +3,7 @@ title: Intro
 published: true
 ---
 
-# Iot Module Week 2: Safety First! Hack
+# Iot Week 2: Safety First! Hack
 
 littleBits are more than just toys; they are prototyping power we can use to solve bigger problems: inequity, neighborhood safety, tools that prevent accidents and the like. 
 
