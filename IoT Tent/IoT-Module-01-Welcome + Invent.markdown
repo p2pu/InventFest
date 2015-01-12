@@ -61,6 +61,7 @@ Andy has been an inspiration for our community with his truly unique story. Afte
 <iframe width="652" height="366" src="//www.youtube.com/embed/KKQZgl8pSis" frameborder="0" allowfullscreen></iframe>
 
 3. [DoguIn](http://littlebits.cc/users/littlebits_user_23278) Seoul, Korea 
+4. [lmsbush](http://littlebits.cc/users/lmsbush)
 
 
 ## Share Your Invent 
