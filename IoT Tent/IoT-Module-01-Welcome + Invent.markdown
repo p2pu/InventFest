@@ -12,7 +12,7 @@ This first, your design challenge will be to use the kit to hack your house. We'
 
 Check out all the stellar projects that use the [Smart Home Kit on MakerHub](http://littlebits.cc/projects/smart_home_kit/featured?order_by=published_at#browse).
 
-3 of our favorites are:
+### MakerHub Favorites
 
 1. Feed your pet, don't let them get hungry! Check out the remote pet feeder:
 <iframe width="455" height="255" src="//www.youtube.com/embed/pnMcxMB_fCk" frameborder="0" allowfullscreen></iframe>
