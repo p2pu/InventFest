@@ -63,7 +63,7 @@ Andy has been an inspiration for our community with his truly unique story. Afte
 4. [lmsbush](http://littlebits.cc/users/lmsbush) Atlanta, GA
 
 
-## Share Your Invent 
+## Share Your Project 
 Upload your project to littleBits [Maker Hub](http://littlebits.cc/projects) and post the link below. Make sure in your upload, you model a ["reflective design process"](http://en.wikipedia.org/wiki/Reflective_practice) and include:
 - The specific bits you used in the project
 - Reflect on what did you do 1st, 2nd and 3rd
