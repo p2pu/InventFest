@@ -10,9 +10,21 @@ This first, your design challenge will be to use the kit to hack your house. We'
 
 ## Inspiration, Examples and Support
 
-### littleBits Remote Pet Feeder
+Check out all the stellar projects that use the [Smart Home Kit on MakerHub](http://littlebits.cc/projects/smart_home_kit/featured?order_by=published_at#browse).
 
+3 of our favorites are:
+
+1. Feed your pet, don't let them get hungry! Check out the remote pet feeder:
 <iframe width="455" height="255" src="//www.youtube.com/embed/pnMcxMB_fCk" frameborder="0" allowfullscreen></iframe>
+http://littlebits.cc/projects/remote-pet-feeder
+
+2. Control your coffee pot from bed with Coffee Control
+<iframe width="652" height="366" src="//www.youtube.com/embed/kgMhOGvsPOU" frameborder="0" allowfullscreen></iframe>
+http://littlebits.cc/projects/coffee-control
+
+3. Keep Track of Your Toilet Paper Inventory
+<iframe width="652" height="366" src="//www.youtube.com/embed/e9Q8mvW3dC8" frameborder="0" allowfullscreen></iframe>
+http://littlebits.cc/projects/toilet-paper-inventory
 
 ### Make Your Bits Talk to Other Things
 IFFT (a service that stands for "if this, then that") offers recipes that combine your Cloudbit, an object and you. 
