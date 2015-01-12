@@ -29,8 +29,9 @@ Read more of the ["Future of Accessible Cities Window Display"](http://littlebit
 DIYAbility & Adaptive Design Association
 
 # How to Use BitLab
- http://www.thingiverse.com/hmdedeur/collections/tools/page:2
- 
+http://www.thingiverse.com/hmdedeur/collections/tools/page:2
+https://www.youtube.com/watch?v=1AXwjZoyNno&feature=youtu.be
+
 # Wearables
 
 
