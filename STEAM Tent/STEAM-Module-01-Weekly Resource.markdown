@@ -3,7 +3,7 @@ title: Projects
 published: true
 ---
 
-# STEAM Module 1: Tinkering Offers Many Ways to Learn Logic
+# STEAM Week 1: Tinkering Offers Many Ways to Learn Logic
 
 The following passage is from [Epistemological Pluralism](http://www.papert.org/articles/EpistemologicalPluralism.html) by Seymour Papert and Sherry Turkle. They explore a different way of learning programming--through creative thinking. 
 
@@ -22,4 +22,3 @@ Two months into the programming course, Lisa's efforts to succeed were no longer
 A classmate, Robin, is a pianist. Robin explains that she masters her music by perfecting the smallest "little bits of pieces" and then building up. She cannot progress until she understands the details of each small part. Robin is happiest when she uses this tried and true method with the computer, playing with small computational elements as though they were notes or musical phrases. Like Lisa, she is frustrated with black-boxing or using prepackaged programs. She too was told her way was wrong: "I told my teaching fellow I wanted to take it all apart, and he laughed at me. He said it was a waste of time, that you should just black box, that you shouldn't confuse yourself with what was going on at that low level. "
 
 Lisa and Robin came to the programming course with anxieties about not "belonging" (fearing that the computer belonged to male hackers who took the machines and made "a world apart"), and their experiences in it only served to make matters worse.7 Although imaginative and carefully designed, the Harvard course taught that there is only one right way to approach the computer, a way that emphasizes control through structure and planning. There are many virtues to this computational approach (it certainly makes sense when dividing the labor on a large programming project), but Lisa and Robin have intellectual styles at war with it. Lisa says she has "turned herself into a different kind of person" in order to perform, and Robin says she has learned to "fake it." Although both women are able to get good grades in their programming course, they represent casualties of this war. Both deny who they are in order to succeed.
-
