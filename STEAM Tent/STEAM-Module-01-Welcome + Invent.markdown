@@ -2,7 +2,7 @@
 # STEAM Module Week 1: Tinkering with Logic
 Welcome educatorly folks. If you are here, you likely work with younger bitSTARs in classrooms, libraries and makerspaces. These modules will help you plan face-to-face STEAM activities, get support from the littleBits team, and connect to other educators over the interwebs. It's gonna be stellar. 
 
-For your first weekly Invent, we'll be playing with gates and making things go. You'll likely need bits from the [Logic Expansion Pack](http://littlebits.cc/expansion-packs/logic) and you may want to scope out the [Space Kit](http://littlebits.cc/kits/space-kit) as well. 
+For your first weekly project, we'll be playing with gates and making things go. You'll likely need bits from the [Logic Expansion Pack](http://littlebits.cc/expansion-packs/logic) and you may want to scope out the [Space Kit](http://littlebits.cc/kits/space-kit) as well. 
 
 As educators ourselves, we believe in tinkering and remixing as core learning methods, and we're going to model those with you. To wit, we'll be copying complex circuits other people make, and then hacking them to meet our needs. 
 
