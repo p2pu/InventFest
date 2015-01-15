@@ -1,10 +1,10 @@
-# Art and Design Module 1: Rep Your Hometown
+# Art and Design Module 1: Interactive Sculpture / Installation 
 
 Welcome to the art + design tent for InventFest. If you are here, you probably want to learn how to connect 3-D printing and littleBits, design funky products that whirrr-and-buzzz and fashion installations that make people go "wow." 
 
-![Snap'em Together](https://pbs.twimg.com/media/B5LVuhGIUAEQVid.jpg)
+We live in a time where we talk to our art--we touch it, talk to it, walk in step with it. The "Internet of Things," the ability to fuse objects and human behavior together, has opened opened up a wealth of creative opportunities.
 
-We'll start this weekly Invent with a challenge to create a "bitified" sign for your hometown or city. 
+In this project, you'll create a piece of art that interacts with the viewer in some way. 
 
 # Design Constraints
 1. Your sign should have at least one LED/lighted part and one moving part. 
