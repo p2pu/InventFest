@@ -1,5 +1,8 @@
 # Art and Design Module 1: Interactive Sculpture / Installation 
 
+>“I communicate, therefore I am” is the defining affirmation of contemporary existence, and objects and systems that were once charged only with formal elegance and functional soundness are now also expected to have personalities. Contemporary designers do not just provide function, form, and meaning, but also must draft the scripts that allow people and things to develop and improvise a dialogue.
+[MoMa, Talk to Me](http://www.moma.org/interactives/exhibitions/2011/talktome/)
+
 Welcome to the art + design tent for InventFest. If you are here, you probably want to learn how to connect 3-D printing and littleBits, design funky products that whirrr-and-buzzz and fashion installations that make people go "wow." 
 
 We live in a time where we talk to our art--we touch it, talk to it, walk in step with it. The "Internet of Things," the ability to fuse objects and human behavior together, has opened opened up a wealth of creative opportunities.
@@ -7,9 +10,9 @@ We live in a time where we talk to our art--we touch it, talk to it, walk in ste
 In this project, you'll create a piece of art that interacts with the viewer in some way. 
 
 # Design Constraints
-1. Your sign should have at least one LED/lighted part and one moving part. 
-2. The sign should tell the story of your town in your own way.
-3. Make a short video of your sign in both "on" and "off" mode and say a little bit about how it describes you.
+1. Think about how you envision life in the year 3000. What about our interaction with technology makes you uncomfortable?
+2. Create a design or installation that comments upon life in the future, as you envision it. 
+3. Your piece must literally engage the viewer-through touch, though text message or picture message. 
 
 # Inspiration, Examples and Support
 
