@@ -12,7 +12,7 @@ In this project, you'll create a piece of art that interacts with the viewer in 
 # Design Constraints
 1. Think about how you envision life in the year 3000. What about our interaction with technology makes you uncomfortable?
 2. Create a design or installation that comments upon life in the future, as you envision it. 
-3. Your piece must literally engage the viewer-through touch, though text message or picture message. 
+3. Your piece must literally engage the viewer-use the touch sensor, the cloudBit, temperature sensor or sound to interact with a human. 
 
 # Inspiration, Examples and Support
 
