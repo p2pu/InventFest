@@ -5,9 +5,7 @@
 
 Welcome to the art + design tent for InventFest. If you are here, you probably want to learn how to connect 3-D printing and littleBits, design funky products that whirrr-and-buzzz and fashion installations that make people go "wow." 
 
-We live in a time where we talk to our art--we touch it, talk to it, walk in step with it. The "Internet of Things," the ability to fuse objects and human behavior together, has opened opened up a wealth of creative opportunities.
-
-In this project, you'll create a piece of art that interacts with the viewer in some way. 
+We live in a time where we talk to our art--we touch it, talk to it, walk in step with it. The "Internet of Things," the ability to fuse objects and human behavior together, has opened opened up a wealth of creative opportunities. In this project, you'll create a piece of art that interacts with the viewer.
 
 # Design Constraints
 1. Think about how you envision life in the year 3000. What about our interaction with technology makes you uncomfortable?
