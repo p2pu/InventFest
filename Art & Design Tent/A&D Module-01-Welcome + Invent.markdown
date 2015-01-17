@@ -12,20 +12,28 @@ In this project, you'll create a piece of art that interacts with the viewer in 
 # Design Constraints
 1. Think about how you envision life in the year 3000. What about our interaction with technology makes you uncomfortable?
 2. Create a design or installation that comments upon life in the future, as you envision it. 
-3. Your piece must literally engage the viewer-use the touch sensor, the cloudBit, temperature sensor or sound to interact with a human. 
+3. Your piece must literally engage the viewer--use the touch sensor, the cloudBit, temperature sensor or sound to interact with a human. 
 
 # Inspiration, Examples and Support
 
 ### MakerHub Favorites:
 
-1. [Hue Lighting Controller](http://littlebits.cc/projects/littlebits-hue-lighting-controller)
+1. [Drawing Bots, Generative Art Machines](http://littlebits.cc/browse-lessons/drawing-bots-generative-art-machines)
+Purpose: This workshop asks participants to use littleBits to 
+create machines that can create drawings and paintings independently. 
+Generative art refers to art that in whole or in part has been created with the 
+use of an autonomous system. In discussing generative art and its principles, 
+participants are challenged to invent their own drawing bots.
+
+<iframe src="//player.vimeo.com/video/61650708" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+2. [Hue Lighting Controller](http://littlebits.cc/projects/littlebits-hue-lighting-controller)
 ![](https://lb-community.s3.amazonaws.com/uploads/image/asset/6506/large_filled_IMG_8996.JPG)
 
            
 
 #Other Ideas
-- Tips and Tricks: littleBits Shoes
-<iframe width="400" height="225" src="//www.youtube.com/embed/uF6ZNU-04p4" frameborder="0" allowfullscreen></iframe>
+
 
 # Your Fellow BitStars
 ### Milind Sonavane & Sopan Sharma
