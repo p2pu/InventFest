@@ -1,4 +1,4 @@
-# Art and Design Module 2: DIY Quantified Self
+# Art and Design Module 2: Wearables
 
 Sensors allow us to track temperatures, increases in pressure, changes in sound. How can we use this data to inform our life decisions? How can we look at our behavior at a high level and see trends, ideas, habits we'd like to change?
 
@@ -7,18 +7,9 @@ This week's "Invent" prompt will ask you to mashup a littleBits sensory input bi
 # Design Constraints
 1. Your project should use a sensor to measure some aspect of human behavior: movement, pressure, tempature, etc.  
 2. A user should be able to wear the project, or carry it with them easily.
-3. The output of the sensory information is up to you: it can be a piece of art, a note in a song, or a step in a motor. T
+3. The output of the sensory information is up to you: it can be a piece of art, a note in a song, or a step in a motor. 
 
 # Inspiration, Examples and Support
-
-### [Drawing Bots, Generative Art Machines](http://littlebits.cc/browse-lessons/drawing-bots-generative-art-machines)
-Purpose: This workshop asks participants to use littleBits to 
-create machines that can create drawings and paintings independently. 
-Generative art refers to art that in whole or in part has been created with the 
-use of an autonomous system. In discussing generative art and its principles, 
-participants are challenged to invent their own drawing bots.
-
-<iframe src="//player.vimeo.com/video/61650708" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ### [3D-Printed Armored Gloves](http://www.shapeways.com/model/2005573/internal-frame-for-armored-gloves.html?li=search-results-8&materialId=6)
 ![](http://images1.sw-cdn.net/model/picture/625x465_2005573_3218433_1403759874.jpg)
@@ -28,6 +19,9 @@ participants are challenged to invent their own drawing bots.
 
 ### [Tips and Tricks: Number+ Module](http://littlebits.cc/tips-tricks-number)
 <iframe width="750" height="422" src="//www.youtube.com/embed/CBSIje21CZQ" frameborder="0" allowfullscreen></iframe>
+
+- Tips and Tricks: littleBits Shoes
+<iframe width="400" height="225" src="//www.youtube.com/embed/uF6ZNU-04p4" frameborder="0" allowfullscreen></iframe>
 
 ## Your Fellow BitStars
 ### Danielle Delgado [3DPrintingGirls](http://littlebits.cc/users/littlebits_user_24652)
