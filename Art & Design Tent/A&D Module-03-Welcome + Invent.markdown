@@ -1,10 +1,20 @@
 # Art and Design Module 3: That Sculpture is Alive!
 
-If you have access to a 3D-printer, this 
+https://www.youtube.com/watch?v=RshSaF_juGs
 
+This design prompt will ask you to use a 3D printer to create a sculpture that really moves people (teehee!). We're going to get a little bit heady here: we're asking you to use littleBits + a 3D printer to think about *time.*
+
+Your project might tackle:
+- Accumulating time: an inch of height, the minute hand on a clock.
+- Frozen time: a fountain of youth, a black hole.
+- Erosion + time: rust, patina, evolution. 
+
+(Adapted from [Virginia Griswold's time-based sculpture assignment](http://sculpture.artapsu.com/wp-content/uploads/2014/08/vgriswold_syllabus_sculpt1_updated2014.pdf)).
 
 # Design Constraints
-1. 
+1. Your project must either use a 3D printer or a lasercutter (post the STL files with the projct).
+2. Your project must physically move: think about using your motors as an output. 
+3. The project must be posted in a way that others may easily replicate it. 
 
 # Inspiration, Examples and Support
 ### MakerHub Favorites
@@ -12,9 +22,17 @@ If you have access to a 3D-printer, this
 ![](https://lb-community.s3.amazonaws.com/uploads/image/asset/5746/large_filled_Animation2.gif)
 
 2. [Shark Out of Water](http://littlebits.cc/projects/swimming-shark--2)
-http://littlebits.cc/projects/swimming-shark--2
+https://www.youtube.com/watch?v=j_3EVObj9JQ
 
+3. [Save Ferris](http://littlebits.cc/projects/save-ferris)
+http://littlebits.cc/projects/save-ferris
 
+### Other Ideas
+1. [Motormate Tips and Tricks](http://littlebits.cc/tips-tricks/fridays-tips-and-tricks-motormate)
+
+2. [Servo Tips and Tricks](http://littlebits.cc/tips-tricks/fridays-tips-and-tricks-servo)
+
+3. [Documentation Tips and Tricks](http://littlebits.cc/tips-tricks/documentation-tips-tricks)
 
 
 # Your Fellow BitStars
