@@ -1,16 +1,17 @@
 
-# Art & Design Module 3 Community Activity "Safety Hackathon"
+# Art & Design Module 3 Community Activity: Let's Defy Gravity
 
 ## Core Questions
-- How would you “hack” the DIY Quantified self activity to improve it?
+- How would you “hack” the kinetic sculpture activity to improve it?
 - If you could revise this activity for a group, what would that look like?
 - Post your activity in Discourse below. 
 - We've included a community activity you can pick up and use for your chapter or local group.
 
-## Community Activity: Safety Hackathon
-1. In your community, reach out to a local law enforcement officer. Who is the public-facing official? Invite them to come give a short presentation on local crime matters in your community, and potential solutions your crew could develop. You may also want to reach out to your local ACLU, Open Data Organization, or local non-profits for more ideas.
-2. In pairs, develop a product using littleBits that could potentially solve your community's safety issue. 
-3. After 2-3 hours of prototyping, share out to the group and post to the littleBits project page. 
+## Community Activity: Art + Science Fair
+1. Use the prompt from this week to have your artists create a piece about time, gravity or motion. 
+2. Ask your artists to collect their research, influences and documentation as they build their work. In addition to the sculpture itself, the artists will put together a poster about how they came to think about time, gravity or motion.
+3. In a "Science Fair" fashion, throw an open house where guests move from table to table learning these concepts.
+4. Take photos and upload them to MakerHub!
 
 
  
