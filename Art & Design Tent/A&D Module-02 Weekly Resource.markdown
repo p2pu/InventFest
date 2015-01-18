@@ -1,7 +1,11 @@
-# Art & Design Module 2: 
+# Art & Design Module 2: Can wearable tech change healthcare?
 
-We're big fans of IDEO, and love their "[Method Cards](http://www.ideo.com/work/method-cards/)." Which tools do you use for design inspiration? What do they help you accomplish?
-![](http://www.ideo.com/images/uploads/work/slides/IDEO_MethodCards_hero_626px.jpg) 
-IDEO Method Cards is a collection of 51 cards representing diverse ways that design teams can understand the people they are designing for. They are used to make a number of different methods accessible to all members of a design team, to explain how and when the methods are best used, and to demonstrate how they have been applied to real design projects.
+Would you contribute personal data to help the healthcare records of the future? Why or why not?
+
+From MIT Technology Review: "[The Measured Life](http://www.technologyreview.com/featuredstory/424390/the-measured-life/)"
+
+PatientsLikeMe, a social-networking site that provides users with tools to track their health status and communicate with other patients, has gathered a wealth of data on its 105,000 members. (The site makes money by anonymizing the data and selling it to pharmaceutical companies and other customers.) In 2008, after a small Italian study published in the Proceedings of the National Academy of Sciences suggested that lithium could delay the progression of ALS, or Lou Gehrig’s disease, a small group of the ALS patients on PatientsLikeMe began taking the drug, and the company rolled out a number of tools to help them track their symptoms, their respiratory capacity, their dosage and blood levels of lithium, and any side effects they observed. Because the patients had collected so much data on themselves before starting the drug, researchers could analyze how their symptoms changed in the 12 months before they began taking it as well studying any changes that came after—something that’s not possible in the typical clinical trial. The company published a study based on its data in April. The drug, unfortunately, was found to have no effect.
+
+The growing availability of new monitoring devices and the increasing sophistication of social networks promise to make self-tracking much more powerful than it was when patients who wanted to monitor their own conditions were limited to standard spreadsheets and daily logs. “We see the potential to change the power dynamics in health care,” says the Robert Wood Johnson Foundation’s Tarini. People could take far more responsibility for monitoring their own health. The concept of personalized medicine could change as well; rather than relying on pharmaceutical companies that have little incentive to individualize treatments, patients could simply try different interventions and record how their physiological signs and symptoms change in response.
 
 
