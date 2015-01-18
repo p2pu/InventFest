@@ -15,6 +15,9 @@ We live in a time where we talk to our art--we touch it, talk to it, walk in ste
 ###MakerHub Favorites: 
 1. [3D-Printed Armored Gloves](http://www.shapeways.com/model/2005573/internal-frame-for-armored-gloves.html?li=search-results-8&materialId=6)
 ![](http://images1.sw-cdn.net/model/picture/625x465_2005573_3218433_1403759874.jpg)
+2. [Interactive Shirt](http://littlebits.cc/projects/interactive-t-shirt)
+![](https://lb-community.s3.amazonaws.com/uploads/image/asset/6766/large_filled_20141003_183341.jpg)
+3. [Wearable Bio Watch](http://littlebits.cc/projects/wearable-bio-watch)![](/https://lb-community.s3.amazonaws.com/uploads/image/asset/363/large_filled_WearableAlarm.jpg)
 
 ###Other Ideas:
 1. [Tips and Tricks: Temperature Sensor](http://littlebits.cc/tips-tricks-temperature-sensor)
