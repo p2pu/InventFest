@@ -1,21 +1,19 @@
-# Art and Design Module 3: Interactive Sculpture
+# Art and Design Module 3: 3D Printed Sculpture
+
+
 
 # Design Constraints
 1. 
 
-## Inspiration, Examples and Support
-
+# Inspiration, Examples and Support
+### MakerHub Favorites
+1. [Interactive Valentine Sculpture](http://littlebits.cc/projects/thinking-of-you)
+![](https://lb-community.s3.amazonaws.com/uploads/image/asset/5746/large_filled_Animation2.gif)
 
 ### [Prismo](http://littlebits.cc/projects/prismo)
 
->Its goal was etablished by a simple observation : at work, more your responsabilities are importants, and less you are available for your colleagues. Except them, your family can try to join you when you’re busy.
 
->Prismo will allow your family or your colleagues to know in real time if it’s a good time to contact you or not, by a simple light signal. If the indicator is on, you show that you’re busy. If it’s not the case, you show that you’re available.
-
->Synchronised with Google Calendar, Prismo will automaticaly activate itself according to your meetings planification.
-![](https://lb-community.s3.amazonaws.com/uploads/image/asset/6403/large_filled_20141211_124824.jpg)
-
-## Your Fellow BitStars
+# Your Fellow BitStars
 ### Milind Sonavane & Sopan Sharma
 
 <iframe src="//player.vimeo.com/video/107115913" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
