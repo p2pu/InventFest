@@ -5,8 +5,8 @@ Welcome to the art + design tent for InventFest. If you are here, you probably w
 This week we'll be using littleBits to remix a piece by your favorite artist. Whose work do you really admire? How could you bring it to life using littleBits?
 
 # Design Constraints
-1. Find your favorite piece of art on the internet. Make a list of what you admire about it.
-2. Use littleBits to exaggerate the aspects you really like about the work, and to put your personal stamp on it. 
+1. Find a picture of your favorite piece of art. 
+2. Reimagine your favorite piece using littleBits. You can exaggerate the aspects you really like about the work, and to put your personal stamp on it. 
 3. Your piece should include either sound bits (Mp3, synth bits, speaker) or light bits (long led, bar graph, numbers).
 
 # Inspiration, Examples and Support
