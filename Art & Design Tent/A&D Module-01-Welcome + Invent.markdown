@@ -1,9 +1,13 @@
-# Art and Design Module 1: Interactive Sculpture / Installation 
+# Art and Design Module 1: Remix Your Art
 
 Welcome to the art + design tent for InventFest. If you are here, you probably want to learn how to connect 3-D printing and littleBits, design funky products that whirrr-and-buzzz and fashion installations that make people go "wow." 
 
+This week we'll be using littleBits to remix a piece by your favorite artist. Whose work do you really admire? How could you bring it to life using littleBits?
+
 # Design Constraints
-1. 
+1. Find your favorite piece of art on the internet. Make a list of what you admire about it.
+2. Use littleBits to exaggerate the aspects you really like about the work, and to put your personal stamp on it. 
+3. Your piece should include either sound bits (Mp3, synth bits, speaker) or light bits (long led, bar graph, numbers).
 
 # Inspiration, Examples and Support
 
@@ -16,14 +20,16 @@ Generative art refers to art that in whole or in part has been created with the
 use of an autonomous system. In discussing generative art and its principles, 
 participants are challenged to invent their own drawing bots.
 
-<iframe src="//player.vimeo.com/video/61650708" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+http://vimeo.com/61650708
 
-2. [Hue Lighting Controller](http://littlebits.cc/projects/littlebits-hue-lighting-controller)
-![](https://lb-community.s3.amazonaws.com/uploads/image/asset/6506/large_filled_IMG_8996.JPG)
+2. [Laser Listening Bunny Sculpture](http://littlebits.cc/projects/laser-listening-bunny-sculpture)
 
-           
+>Make a sculpture any way you want! I never made a found objects sculpture before, so I made it up as I went along. First I collected shells and glass and things at the beach in the colors of my bunny. Then I drew the bunny on my fruit crate board. Next I hot glued the items according to color and shape and pushed grout in between all the stuff. I scrubbed the glass and shells clean before the grout hardened!  After that dried overnight I used "masking fluid" to protect the shells and glass and then painted the picture with acrylic paint. Finally I removed the rubbery masking fluid.
 
-#Other Ideas
+https://www.youtube.com/watch?v=QnN8mut-rUA
+
+3. [Darth Vader is Your Weather Forecaster](http://littlebits.cc/projects/i-m-your-weather-caster)
+https://www.youtube.com/watch?v=5bWlok7UGsE
 
 
 # Your Fellow BitStars
@@ -35,7 +41,7 @@ participants are challenged to invent their own drawing bots.
 
 >Inventing joyful devices that let people do more, think more, feel more. We are inspired by art, music, creativity and children at play they believe that keeping other makers in mind while making your own project is the key to inspiring action, and making the party bigger. 
 
-<iframe src="//player.vimeo.com/video/107115913" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+http://vimeo.com/107115913
 
 ### [Devincifablab](http://littlebits.cc/users/devincifablab)
 ![](https://lb-community.s3.amazonaws.com/uploads/image/asset/6410/large_filled_pacmanbox.png)
