@@ -3,7 +3,7 @@
 >“I communicate, therefore I am” is the defining affirmation of contemporary existence, and objects and systems that were once charged only with formal elegance and functional soundness are now also expected to have personalities. Contemporary designers do not just provide function, form, and meaning, but also must draft the scripts that allow people and things to develop and improvise a dialogue.
 [MoMa, Talk to Me](http://www.moma.org/interactives/exhibitions/2011/talktome/)
 
-We live in a time where we talk to our art--we touch it, talk to it, walk in step with it. The "Internet of Things," the ability to fuse objects and human behavior together, has opened opened up a wealth of creative opportunities. In this project, you'll create a piece of art that folks can carry with them.
+We live in a time where we talk to our art--we touch it, talk to it, walk in step with it. The "Internet of Things," the ability to fuse objects and human behavior together, has opened up a wealth of creative opportunities. In this project, you'll create a piece of art that folks can carry with them.
 
 # Design Constraints
 1. Imagine going about your day in the year 3000. How are humans dressed? How do their clothes, glasses, pockets, shoes, communicate with the world around them? Do their sneakers take pictures and upload them to the cloud for GoogleMaps?
