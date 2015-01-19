@@ -12,7 +12,12 @@ In order to submit a module for vote all you need to do is create a working prot
 This week's challenge will help you get familiar with the BitLab [Hardware Development Kit.](http://littlebits.cc/kits/hdk) and to prototype your first Bit. We invite you to join the BitLab community in this first project. 
 
 # Design Constraints / Directions
-1. Check out the Dreambits page. What is missing? Dream up your own bit, add it, and post the link below. 
+1. If you could **measure** the following thing, what would it be?
+- Thoughts
+- Inspiration
+- Dreams
+- Moods
+Check out the Dreambits page. What is missing? Dream up your own bit, add it, and post the link below. 
 2. 
 3. 
 
@@ -27,8 +32,11 @@ This week's challenge will help you get familiar with the BitLab [Hardware Devel
 3. [The Oscilloscope](http://littlebits.cc/bitlab/bits/oscilloscope]
 ![](https://lb-community.s3.amazonaws.com/uploads/lab/image/asset/5374/large_filled_IMG_6282__1_.jpg)
 
-## Your Fellow BitStars
-### http://littlebits.cc/makers/madison-maxey
+# Your Fellow BitStars
+
+1. [Jay Silver from Makey Makey](http://littlebits.cc/makers/jay-silver-from-makeymakey) 
+
+http://littlebits.cc/makers/madison-maxey
 
 ### 
 
