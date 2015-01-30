@@ -5,7 +5,6 @@ InventFest
 
 About InventAnything
 
-
 At littleBits we believe in empowering more people around the world to be creators and not just consumers of technology. That is why we deeply care about supporting our community in their learning journey as makers. And starting today we are offering a free online course to help anyone around the world learn how to # InventAnything using littleBits. Together we can start an open hardware revolution!
 
 The course is free, online, and open to anyone who wants to participate. It is peer-powered by P2PU, and you can follow the five week curriculum starting on February the 25th or go at your own pace.  
