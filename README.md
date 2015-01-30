@@ -3,38 +3,55 @@ InventFest
 
 # About InventAnything
 
-## "littleBits are so awesome, but we need help figuring out what to do with them."
-Librarians, makerspace people and after-school mentors told us this time and again. So we at littleBits HQ teamed up with some of our core community members and the design team at Peer 2 Peer University to bring you InventAnything, 
+About InventAnything
 
-InventAnything is a free, five week online course to level up your maker skills and meet new friends from around the world. We've activated our network of designers, musicians, engineers and educators to make a "littleBit" of magic together. 
 
-You can expect a weekly design challenge on the Discourse forums, a face-to-face meetup each week to debug your project and meet a celebrity maker, and at the end of the program a 25% discount on littleBits.com. 
+At littleBits we believe in empowering more people around the world to be creators and not just consumers of technology. That is why we deeply care about supporting our community in their learning journey as makers. And starting today we are offering a free online course to help anyone around the world learn how to # InventAnything using littleBits. Together we can start an open hardware revolution!
 
-## How Do I Navigate InventAnything?
-### Getting started:
+The course is free, online, and open to anyone who wants to participate. It is peer-powered by P2PU, and you can follow the five week curriculum starting on February the 25th or go at your own pace.  
+^i'm not sure what 'go at your own pace' means. people can join in late?
+
+Our Learning Philosophy
+Interest-driven. You'll work on projects that are of your choosing, and dazzle or entrance you. No dry videos, no quizzes.
+Open + participatory. Anyone can join, anyone can contribute and we create a safe space so anyone can speak.
+Community-powered. We're making InventAnything together. We are always teaching and learning at the same time.
+Playful. You'll learn best when you are having fun. 
+
+How Does It Work?
+
+SIGN UP
+Don't miss out on weekly assignments, buzzworthy community recaps and a very special x% discount upon graduation. We pinky swear you will love our emails. 
+
+FIND YOUR CREW
+Connect with other bitsters who share similar passions by choosing one or more tracks. You can think about them like departments in a school. 
+^are you going to list the tracks here?
+
+JOIN THE DISCUSSION
+Much of the activity is designed to encourage peer to peer learning and takes place in our online discussion forum. 
+
+LEARN NEW SKILLS
+Take design challenges to hone on your maker chops and problem-solve with other bit'sters.
+
+MEET IN REAL TIME 
+Hangout with other bit'sters during our weekly community calls for real-time networking and support. 
+Each week we will also have special guests joining us:
+
+Eric Rosenbaum, co-creator of Makie-Makie , Dr. Alex Ruthmann Associate Professor of Music Technology and Music Education at NYU, Ariel Wieldman founder of SpaceHack.org and Mitchel Resnick, head of the Lifelong Kindergarten group at the MIT Media Lab.
+^typo, should be MaKey MaKey
+
+MENTOR OTHERS
+Go beyond making and teach others in your local community how to #inventanything. By the end of the course, you'll have put  together your own playful event using littleBits. To celebrate we will host a global make-a-thon with everyone who took the course. 
+^i feel like the make-a-thon is a pretty big deal and maybe should be brought out more as a feature?
+
+LEVEL UP
+Upon graduation you will be able to apply to unlock exclusive bitSTAR status which includes a fancy badge on your profile and 20% discount on your next purchase. 
+
+How Do I Get Started?
+
 Start at [InventAnything URL], jump into a track that appeals to you. 
 Poke around our forums at (http://discuss.littlebits.cc/t/welcome-introduce-yourself/11279). Add a comment, check out the categories, complete your profile. Make a small change, but contribute.
 Accept a design challenge, and get started making a project!
 
-### Once a week, you can expect:
-- Activity on discuss.littlebits.cc: prompt for a new project, ideas on a controversial debate, a group activity
-- Face-to-face meetups at (https://unhangout.media.mit.edu/event/littlebits). 
-- We'll host Q&A's with fancypants famous-makers, showcase our projects and host design critiques.
-- Emails that summarize tasty community activity and catch you up on all the buzzzzz.
 
-### We're building a global littleBits network:
-At the end of the course, you'll have put together your own playful event using littleBits. We'll work with you on event design, supporting your activities, and growing your local network of bitSTARs. 
-
-## Our Learning Philosophy
-littleBits is a mission-driven organization: we're putting the power of electronics into the hands of the next generation of inventors. In addition to hands-on learning, here's what we believe:
-- **Interest-driven.** You'll work on projects that are of your choosing, and dazzle or entrance you. No dry videos, no quizzes.
-- **Open + participatory.** Anyone can join, anyone can contribute and we create a safe space so anyone can speak.
-- **Community-powered.** We're making InventAnything together. We are always teaching and learning at the same time.
-- **Playful.** You'll learn best when you are having fun. 
-All of those values are backed into the tools we use and the tools we make. 
-
-## The InventAnything Team: the Hostesses with the Mostest
-InventAnything is the brainchild of Chloe Varelidi, Director of Global Community at littleBits and Vanessa Gennarelli, Learning Lead at Peer 2 Peer University. Chloe is a game designer, an a former assessment guru at Mozilla Foundation, and a Resident at Eyebeam In New York. Vanessa has designed learning communities with NYU, Wikimedia, Mozilla, and Creative Commons. 
-
-## Got a Question?
-Ask in the Discourse Forums under "Welcome": http://discuss.littlebits.cc/category/welcome
+Got a Question?
+Ask in the our forums under "Welcome": http://discuss.littlebits.cc/category/welcome
